@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    var productProvider = MikrotikProductInfoProvider();
+    var productProvider = MikrotikProductInfoProviderImpl();
     var decoder = MndpMessageDecoderImpl(productProvider);
     MNDPListener mndpListener = MNDPListener(decoder);
     return Scaffold(

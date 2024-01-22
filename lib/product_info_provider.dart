@@ -2,10 +2,14 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:mikrotik_mndp/product.dart';
 
-class MikrotikProductInfoProvider {
+abstract class MikrotikProductInfoProvider {
+  Future<MikrotikProduct?> find(String model);
+}
+
+class MikrotikProductInfoProviderImpl implements MikrotikProductInfoProvider {
   late List<MikrotikProduct> _products;
 
-  MikrotikProductInfoProvider() {
+  MikrotikProductInfoProviderImpl() {
     _products = [];
   }
 

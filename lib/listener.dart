@@ -9,106 +9,106 @@ const List<int> requestPackage = [0, 0, 0, 0];
 const int mndpPort = 5678;
 
 class MNDPListener {
-  late StreamController<MndpMessage> controller;
-  MndpMessageDecoder decoder;
-  RawDatagramSocket? txUDPIPv4Socket;
-  RawDatagramSocket? rxUDPIPv4Socket;
-  RawDatagramSocket? txUDPIPv6Socket;
-  RawDatagramSocket? rxUDPIPv6Socket;
-  Timer? sendBroadcastIPv4PeriodicTimer;
-  Timer? sendBroadcastIPv6PeriodicTimer;
+  late StreamController<MndpMessage> _controller;
+  MndpMessageDecoder _decoder;
+  RawDatagramSocket? _txUDPIPv4Socket;
+  RawDatagramSocket? _rxUDPIPv4Socket;
+  RawDatagramSocket? _txUDPIPv6Socket;
+  RawDatagramSocket? _rxUDPIPv6Socket;
+  Timer? _sendBroadcastIPv4PeriodicTimer;
+  Timer? _sendBroadcastIPv6PeriodicTimer;
 
-  MNDPListener(this.decoder) {
-    controller = StreamController<MndpMessage>();
+  MNDPListener(this._decoder) {
+    _controller = StreamController<MndpMessage>();
   }
 
   Stream<MndpMessage> listen() {
-    listenIPv4();
-    listenIPv6();
-    return controller.stream;
+    _listenIPv4();
+    _listenIPv6();
+    return _controller.stream;
   }
 
-  Stream<MndpMessage> listenIPv4() {
-    var ftxUDPSocket = createNewMNDPIPv4Socket();
+  Stream<MndpMessage> _listenIPv4() {
+    var ftxUDPSocket = _createNewMNDPIPv4Socket();
     ftxUDPSocket.then((RawDatagramSocket txSocket) async {
-      txUDPIPv4Socket = txSocket;
+      _txUDPIPv4Socket = txSocket;
 
-      sendBroadcastIPv4PeriodicTimer =
+      _sendBroadcastIPv4PeriodicTimer =
           Timer.periodic(const Duration(seconds: 10), (Timer t)  {
-            sendBroadcastIPv4RequestMsg();
+            _sendBroadcastIPv4RequestMsg();
           });
 
-      var frxUDPSocket = createNewMNDPIPv4Socket();
+      var frxUDPSocket = _createNewMNDPIPv4Socket();
       frxUDPSocket.then((rxSocket) async {
-        rxUDPIPv4Socket = rxSocket;
-        rxUDPIPv4Socket!.broadcastEnabled = true;
-        rxUDPIPv4Socket!.multicastLoopback = false;
-        rxUDPIPv4Socket!.listen((RawSocketEvent event) async {
+        _rxUDPIPv4Socket = rxSocket;
+        _rxUDPIPv4Socket!.broadcastEnabled = true;
+        _rxUDPIPv4Socket!.multicastLoopback = false;
+        _rxUDPIPv4Socket!.listen((RawSocketEvent event) async {
           if (event == RawSocketEvent.read) {
             Datagram? datagram = rxSocket.receive();
             if (datagram != null && datagram.data.length > 4) {
-              MndpMessage msg = await decoder.decode(datagram.data);
-              controller.add(msg);
+              MndpMessage msg = await _decoder.decode(datagram.data);
+              _controller.add(msg);
             }
           }
         });
       });
     });
-    return controller.stream;
+    return _controller.stream;
   }
 
-  Stream<MndpMessage> listenIPv6() {
-    var ftxUDPSocket = createNewMNDPIPv6Socket();
+  Stream<MndpMessage> _listenIPv6() {
+    var ftxUDPSocket = _createNewMNDPIPv6Socket();
     ftxUDPSocket.then((RawDatagramSocket txSocket) async {
-      txUDPIPv6Socket = txSocket;
+      _txUDPIPv6Socket = txSocket;
 
-      sendBroadcastIPv6PeriodicTimer =
+      _sendBroadcastIPv6PeriodicTimer =
           Timer.periodic(const Duration(seconds: 10), (Timer t) async {
-            await sendBroadcastIPv6RequestMsg();
+            await _sendBroadcastIPv6RequestMsg();
           });
 
-      var frxUDPSocket = createNewMNDPIPv6Socket();
+      var frxUDPSocket = _createNewMNDPIPv6Socket();
       frxUDPSocket.then((rxSocket) async {
-        rxUDPIPv6Socket = rxSocket;
-        rxUDPIPv6Socket!.broadcastEnabled = true;
-        rxUDPIPv6Socket!.multicastLoopback = false;
-        rxUDPIPv6Socket!.listen((RawSocketEvent event) async {
+        _rxUDPIPv6Socket = rxSocket;
+        _rxUDPIPv6Socket!.broadcastEnabled = true;
+        _rxUDPIPv6Socket!.multicastLoopback = false;
+        _rxUDPIPv6Socket!.listen((RawSocketEvent event) async {
           if (event == RawSocketEvent.read) {
             Datagram? datagram = rxSocket.receive();
             if (datagram != null && datagram.data.length > 4) {
-              MndpMessage msg = await decoder.decode(datagram.data);
-              controller.add(msg);
+              MndpMessage msg = await _decoder.decode(datagram.data);
+              _controller.add(msg);
             }
           }
         });
       });
     });
-    return controller.stream;
+    return _controller.stream;
   }
 
-  Future<void> sendBroadcastIPv4RequestMsg() async {
+  Future<void> _sendBroadcastIPv4RequestMsg() async {
     var broadcastAddress = await NetworkInfo().getWifiBroadcast();
     broadcastAddress ??= '192.168.1.255';
-    txUDPIPv4Socket!.broadcastEnabled = true;
-    txUDPIPv4Socket!.multicastHops = 255;
-    txUDPIPv4Socket!.send(
+    _txUDPIPv4Socket!.broadcastEnabled = true;
+    _txUDPIPv4Socket!.multicastHops = 255;
+    _txUDPIPv4Socket!.send(
       requestPackage,
       InternetAddress(broadcastAddress, type: InternetAddressType.IPv4),
       mndpPort,
     );
   }
 
-  Future<void> sendBroadcastIPv6RequestMsg() async {
-    txUDPIPv6Socket!.broadcastEnabled = true;
-    txUDPIPv6Socket!.multicastHops = 255;
-    txUDPIPv6Socket!.send(
+  Future<void> _sendBroadcastIPv6RequestMsg() async {
+    _txUDPIPv6Socket!.broadcastEnabled = true;
+    _txUDPIPv6Socket!.multicastHops = 255;
+    _txUDPIPv6Socket!.send(
       requestPackage,
       InternetAddress('ff02::1', type: InternetAddressType.IPv6),
       mndpPort,
     );
   }
 
-  Future<RawDatagramSocket> createNewMNDPIPv4Socket() {
+  Future<RawDatagramSocket> _createNewMNDPIPv4Socket() {
     return RawDatagramSocket.bind(
       InternetAddress.anyIPv4,
       mndpPort,
@@ -116,7 +116,7 @@ class MNDPListener {
     );
   }
 
-  Future<RawDatagramSocket> createNewMNDPIPv6Socket() {
+  Future<RawDatagramSocket> _createNewMNDPIPv6Socket() {
     return RawDatagramSocket.bind(
       InternetAddress.anyIPv6,
       mndpPort,
@@ -125,17 +125,17 @@ class MNDPListener {
   }
 
   void stop() {
-    sendBroadcastIPv4PeriodicTimer?.cancel();
-    sendBroadcastIPv6PeriodicTimer?.cancel();
+    _sendBroadcastIPv4PeriodicTimer?.cancel();
+    _sendBroadcastIPv6PeriodicTimer?.cancel();
 
-    txUDPIPv4Socket?.close();
-    rxUDPIPv4Socket?.close();
+    _txUDPIPv4Socket?.close();
+    _rxUDPIPv4Socket?.close();
 
-    txUDPIPv6Socket?.close();
-    rxUDPIPv6Socket?.close();
+    _txUDPIPv6Socket?.close();
+    _rxUDPIPv6Socket?.close();
 
-    if (!controller.isClosed) {
-      controller.close();
+    if (!_controller.isClosed) {
+      _controller.close();
     }
   }
 

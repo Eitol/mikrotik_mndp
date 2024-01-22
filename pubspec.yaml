@@ -1,6 +1,6 @@
 name: mikrotik_mndp
 description: "Mikrotik MNDP Discovery Protocol"
-version: 0.0.2
+version: 0.0.4
 homepage: https://github.com/Eitol/mikrotik_mndp
 repository: https://github.com/Eitol/mikrotik_mndp
 environment:
