@@ -21,9 +21,3 @@ dev_dependencies:
 flutter:
   assets:
     - assets/products.json
-
-  plugin:
-    platforms:
-      android:
-        package: io.flutter.plugins.firebase.crashlytics
-        pluginClass: FlutterFirebaseCrashlyticsPlugin
