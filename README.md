@@ -34,10 +34,10 @@ The plugin also searches for additional information about the device from its na
 
 
 <div style="background-color: white;">
-    <img src="doc/img.jpg" alt="Descripción de la imagen">
+    <img src="https://raw.githubusercontent.com/Eitol/mikrotik_mndp/main/doc/img.jpg" alt="App Example Screenshot">
 </div>
 
-![doc/app.gif](doc/app.gif)
+![doc/app.gif](https://raw.githubusercontent.com/Eitol/mikrotik_mndp/main/doc/app.gif)
 
 ```dart
 import 'package:flutter/material.dart';

@@ -2,7 +2,7 @@ name: mikrotik_mndp
 description: "Mikrotik MNDP Discovery Protocol"
 version: 0.0.1
 homepage: https://github.com/Eitol/mikrotik_mndp
-
+repository: https://github.com/Eitol/mikrotik_mndp
 environment:
   sdk: '>=3.2.0 <4.0.0'
   flutter: ">=1.17.0"
@@ -21,3 +21,11 @@ dev_dependencies:
 flutter:
   assets:
     - assets/products.json
+
+  plugin:
+    platforms:
+      android:
+        package: io.flutter.plugins.firebase.crashlytics
+        pluginClass: FlutterFirebaseCrashlyticsPlugin
+      ios:
+        pluginClass: FLTFirebaseCrashlyticsPlugin
