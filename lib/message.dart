@@ -1,5 +1,3 @@
-import 'dart:typed_data';
-
 import 'package:mikrotik_mndp/product.dart';
 
 class MndpMessage {

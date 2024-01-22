@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:typed_data';
 import 'package:flutter/services.dart';
-import 'package:mikrotik_mndp/product_info_provider.dart';
 
+import 'product_info_provider.dart';
 import 'message.dart';
 
 const int tlvTypeMacAddress = 1;

@@ -1,7 +1,7 @@
 name: mikrotik_mndp
 description: "Mikrotik MNDP Discovery Protocol"
 version: 0.0.1
-homepage: github.com/Eitol/mikrotik_mndp
+homepage: https://github.com/Eitol/mikrotik_mndp
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
