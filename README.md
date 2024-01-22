@@ -4,7 +4,9 @@ This is a Flutter plugin to discover network devices using the MikroTik Neighbor
 
 ## Usage
 
-To use this plugin, add `mndp_protocol` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/mndp_protocol).
+[![pub package](https://img.shields.io/pub/v/mikrotik_mndp.svg)](https://pub.dev/packages/mikrotik_mndp)
+
+To use this plugin, add `mikrotik_mndp` as a [dependency in your pubspec.yaml file](https://pub.dev/packages/mikrotik_mndp).
 
 The plugin is responsible for sending broadcast/multicast requests to the mikrotiks devices on the network. 
 These devices then receive these requests and respond with their information. 
@@ -195,4 +197,17 @@ class MndpMessageWidget extends StatelessWidget {
   }
 }
 ```
+
+## Testing
+
+The plugin was tested on the following devices:
+
+- Android 13 (Samsung Galaxy S21 Ultra)
+
+
+Mikrotik devices:
+
+- Mikrotik RB931-2nD
+- Mikrotik AX3 (IPv6)
+- Mikrotik RB3011UiAS-RM
 
