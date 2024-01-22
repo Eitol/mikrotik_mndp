@@ -1,0 +1,2822 @@
+[
+  {
+    "name": "CME Gateway",
+    "code": "CME22-2n-BG77",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2291_m.png",
+    "product_url": "https://mikrotik.com/product/cme_gateway"
+  },
+  {
+    "name": "L009UiGS-RM",
+    "code": "L009UiGS-RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2267_m.png",
+    "product_url": "https://mikrotik.com/product/l009uigs_rm"
+  },
+  {
+    "name": "SXT LTE6 kit",
+    "code": "SXTR&FG621-EAr3",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2287_m.png",
+    "product_url": "https://mikrotik.com/product/sxt_lte6_2023"
+  },
+  {
+    "name": "L009UiGS-2HaxD-IN",
+    "code": "L009UiGS-2HaxD-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2263_m.png",
+    "product_url": "https://mikrotik.com/product/l009uigs_2haxd_in"
+  },
+  {
+    "name": "LtAP LTE6 kit",
+    "code": "LtAP-2HnD&FG621-EAr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2296_m.png",
+    "product_url": "https://mikrotik.com/product/ltap_lte6_kit_2023"
+  },
+  {
+    "name": "CRS310-8G+2S+IN",
+    "code": "CRS310-8G+2S+IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2280_m.png",
+    "product_url": "https://mikrotik.com/product/crs310_8g_2s_in"
+  },
+  {
+    "name": "Chateau 5G R16",
+    "code": "D53G-5HacD2HnD-TC&RG520F-EU",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2303_m.png",
+    "product_url": "https://mikrotik.com/product/chateau5gr16"
+  },
+  {
+    "name": "hEX lite",
+    "code": "RB750r2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1040_m.png",
+    "product_url": "https://mikrotik.com/product/RB750r2"
+  },
+  {
+    "name": "hEX",
+    "code": "RB750Gr3",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1405_m.png",
+    "product_url": "https://mikrotik.com/product/RB750Gr3"
+  },
+  {
+    "name": "hEX PoE lite",
+    "code": "RB750UPr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1412_m.png",
+    "product_url": "https://mikrotik.com/product/RB750UPr2"
+  },
+  {
+    "name": "PowerBox",
+    "code": "RB750P-PBr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1446_m.png",
+    "product_url": "https://mikrotik.com/product/RB750P-PBr2"
+  },
+  {
+    "name": "hEX S",
+    "code": "RB760iGS",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1539_m.png",
+    "product_url": "https://mikrotik.com/product/hex_s"
+  },
+  {
+    "name": "hEX PoE",
+    "code": "RB960PGS",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1219_m.png",
+    "product_url": "https://mikrotik.com/product/RB960PGS"
+  },
+  {
+    "name": "PowerBox Pro",
+    "code": "RB960PGS-PB",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1298_m.png",
+    "product_url": "https://mikrotik.com/product/RB960PGS-PB"
+  },
+  {
+    "name": "RB3011UiAS-RM",
+    "code": "RB3011UiAS-RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1407_m.png",
+    "product_url": "https://mikrotik.com/product/RB3011UiAS-RM"
+  },
+  {
+    "name": "CCR2004-1G-2XS-PCIe",
+    "code": "CCR2004-1G-2XS-PCIe",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2128_m.png",
+    "product_url": "https://mikrotik.com/product/ccr2004_1g_2xs_pcie"
+  },
+  {
+    "name": "RB4011iGS+RM",
+    "code": "RB4011iGS+RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1633_m.png",
+    "product_url": "https://mikrotik.com/product/rb4011igs_rm"
+  },
+  {
+    "name": "RB5009UG+S+IN",
+    "code": "RB5009UG+S+IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2065_m.png",
+    "product_url": "https://mikrotik.com/product/rb5009ug_s_in"
+  },
+  {
+    "name": "RB5009UPr+S+IN",
+    "code": "RB5009UPr+S+IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2190_m.png",
+    "product_url": "https://mikrotik.com/product/rb5009upr_s_in"
+  },
+  {
+    "name": "RB5009UPr+S+OUT",
+    "code": "RB5009UPr+S+OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2250_m.png",
+    "product_url": "https://mikrotik.com/product/rb5009_out"
+  },
+  {
+    "name": "RB1100AHx4",
+    "code": "RB1100x4",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1344_m.png",
+    "product_url": "https://mikrotik.com/product/rb1100ahx4"
+  },
+  {
+    "name": "RB1100AHx4 Dude Edition",
+    "code": "RB1100Dx4",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1285_m.png",
+    "product_url": "https://mikrotik.com/product/RB1100Dx4"
+  },
+  {
+    "name": "CCR2004-16G-2S+",
+    "code": "CCR2004-16G-2S+r2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2245_m.png",
+    "product_url": "https://mikrotik.com/product/ccr2004_16g_2splus"
+  },
+  {
+    "name": "CCR2004-16G-2S+PC",
+    "code": "CCR2004-16G-2S+PC",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2173_m.png",
+    "product_url": "https://mikrotik.com/product/ccr2004_16g_2s_pc"
+  },
+  {
+    "name": "CCR2004-1G-12S+2XS",
+    "code": "CCR2004-1G-12S+2XS",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1935_m.png",
+    "product_url": "https://mikrotik.com/product/ccr2004_1g_12s_2xs"
+  },
+  {
+    "name": "CCR2116-12G-4S+",
+    "code": "CCR2116-12G-4S+",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2115_m.png",
+    "product_url": "https://mikrotik.com/product/ccr2116_12g_4splus"
+  },
+  {
+    "name": "CCR2216-1G-12XS-2XQ",
+    "code": "CCR2216-1G-12XS-2XQ",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2122_m.png",
+    "product_url": "https://mikrotik.com/product/ccr2216_1g_12xs_2xq"
+  },
+  {
+    "name": "RB260GS",
+    "code": "CSS106-5G-1S",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1329_m.png",
+    "product_url": "https://mikrotik.com/product/RB260GS"
+  },
+  {
+    "name": "RB260GSP",
+    "code": "CSS106-1G-4P-1S",
+    "image_url": "https://i.mt.lv/cdn/rb_images/911_m.png",
+    "product_url": "https://mikrotik.com/product/RB260GSP"
+  },
+  {
+    "name": "CRS106-1C-5S",
+    "code": "CRS106-1C-5S",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1257_m.png",
+    "product_url": "https://mikrotik.com/product/CRS106-1C-5S"
+  },
+  {
+    "name": "CSS610-8G-2S+IN",
+    "code": "CSS610-8G-2S+IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1980_m.png",
+    "product_url": "https://mikrotik.com/product/css610_8g_2s_in"
+  },
+  {
+    "name": "netPower Lite 7R",
+    "code": "CSS610-1Gi-7R-2S+OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1973_m.png",
+    "product_url": "https://mikrotik.com/product/netpower_lite_7r"
+  },
+  {
+    "name": "CRS305-1G-4S+IN",
+    "code": "CRS305-1G-4S+IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1659_m.png",
+    "product_url": "https://mikrotik.com/product/crs305_1g_4s_in"
+  },
+  {
+    "name": "CRS112-8G-4S-IN",
+    "code": "CRS112-8G-4S-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1050_m.png",
+    "product_url": "https://mikrotik.com/product/CRS112-8G-4S-IN"
+  },
+  {
+    "name": "CSS326-24G-2S+RM",
+    "code": "CSS326-24G-2S+RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1267_m.png",
+    "product_url": "https://mikrotik.com/product/CSS326-24G-2SplusRM"
+  },
+  {
+    "name": "netPower 15FR",
+    "code": "CRS318-1Fi-15Fr-2S-OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1923_m.png",
+    "product_url": "https://mikrotik.com/product/crs318_1fi_15fr_2s_out"
+  },
+  {
+    "name": "CRS326-24G-2S+IN",
+    "code": "CRS326-24G-2S+INr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1938_m.png",
+    "product_url": "https://mikrotik.com/product/crs326_24g_2s_in"
+  },
+  {
+    "name": "CRS310-1G-5S-4S+IN",
+    "code": "CRS310-1G-5S-4S+IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2147_m.png",
+    "product_url": "https://mikrotik.com/product/crs310_1g_5s_4s_in"
+  },
+  {
+    "name": "CRS326-24G-2S+RM",
+    "code": "CRS326-24G-2S+RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1301_m.png",
+    "product_url": "https://mikrotik.com/product/CRS326-24G-2SplusRM"
+  },
+  {
+    "name": "CRS112-8P-4S-IN",
+    "code": "CRS112-8P-4S-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1466_m.png",
+    "product_url": "https://mikrotik.com/product/crs112_8p_4s_in"
+  },
+  {
+    "name": "CSS610-8P-2S+IN",
+    "code": "CSS610-8P-2S+IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2193_m.png",
+    "product_url": "https://mikrotik.com/product/css610_8p_2s_in"
+  },
+  {
+    "name": "FiberBox Plus",
+    "code": "CRS305-1G-4S+OUTr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2218_m.png",
+    "product_url": "https://mikrotik.com/product/fiberboxplus"
+  },
+  {
+    "name": "netFiber 9",
+    "code": "CRS310-1G-5S-4S+OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2109_m.png",
+    "product_url": "https://mikrotik.com/product/netfiber_9"
+  },
+  {
+    "name": "CRS309-1G-8S+IN",
+    "code": "CRS309-1G-8S+IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1730_m.png",
+    "product_url": "https://mikrotik.com/product/crs309_1g_8s_in"
+  },
+  {
+    "name": "netPower 16P",
+    "code": "CRS318-16P-2S+OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1951_m.png",
+    "product_url": "https://mikrotik.com/product/netpower_16p"
+  },
+  {
+    "name": "CRS328-4C-20S-4S+RM",
+    "code": "CRS328-4C-20S-4S+RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1526_m.png",
+    "product_url": "https://mikrotik.com/product/crs328_4c_20s_4s_rm"
+  },
+  {
+    "name": "CRS328-24P-4S+RM",
+    "code": "CRS328-24P-4S+RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1493_m.png",
+    "product_url": "https://mikrotik.com/product/crs328_24p_4s_rm"
+  },
+  {
+    "name": "CRS317-1G-16S+RM",
+    "code": "CRS317-1G-16S+RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1324_m.png",
+    "product_url": "https://mikrotik.com/product/crs317_1g_16s_rm"
+  },
+  {
+    "name": "CRS326-24S+2Q+RM",
+    "code": "CRS326-24S+2Q+RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1831_m.png",
+    "product_url": "https://mikrotik.com/product/crs326_24s_2q_rm"
+  },
+  {
+    "name": "CRS354-48G-4S+2Q+RM",
+    "code": "CRS354-48G-4S+2Q+RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1899_m.png",
+    "product_url": "https://mikrotik.com/product/crs354_48g_4splus2qplusrm"
+  },
+  {
+    "name": "CRS312-4C+8XG-RM",
+    "code": "CRS312-4C+8XG-RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1825_m.png",
+    "product_url": "https://mikrotik.com/product/crs312_4c_8xg_rm"
+  },
+  {
+    "name": "CRS504-4XQ-IN",
+    "code": "CRS504-4XQ-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2156_m.png",
+    "product_url": "https://mikrotik.com/product/crs504_4xq_in"
+  },
+  {
+    "name": "CRS504-4XQ-OUT",
+    "code": "CRS504-4XQ-OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2235_m.png",
+    "product_url": "https://mikrotik.com/product/crs504_4xq_out"
+  },
+  {
+    "name": "CRS354-48P-4S+2Q+RM",
+    "code": "CRS354-48P-4S+2Q+RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1909_m.png",
+    "product_url": "https://mikrotik.com/product/crs354_48p_4s_2q_rm"
+  },
+  {
+    "name": "CRS510-8XS-2XQ-IN",
+    "code": "CRS510-8XS-2XQ-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2232_m.png",
+    "product_url": "https://mikrotik.com/product/crs510_8xs_2xq_in"
+  },
+  {
+    "name": "CRS518-16XS-2XQ-RM",
+    "code": "CRS518-16XS-2XQ-RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2196_m.png",
+    "product_url": "https://mikrotik.com/product/crs518_16xs_2xq"
+  },
+  {
+    "name": "SXTsq Lite2",
+    "code": "RBSXTsq2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1530_m.png",
+    "product_url": "https://mikrotik.com/product/sxtsq_lite2"
+  },
+  {
+    "name": "LDF 2",
+    "code": "RBLDF-2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1535_m.png",
+    "product_url": "https://mikrotik.com/product/ldf_2"
+  },
+  {
+    "name": "SXTsq Lite5",
+    "code": "RBSXTsq5nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1308_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXTsq5nD"
+  },
+  {
+    "name": "LDF 5",
+    "code": "RBLDF-5nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1239_m.png",
+    "product_url": "https://mikrotik.com/product/rbldf_5nd"
+  },
+  {
+    "name": "DISC Lite5",
+    "code": "RBDisc-5nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1254_m.png",
+    "product_url": "https://mikrotik.com/product/rbdisc_5nd"
+  },
+  {
+    "name": "LHG 2",
+    "code": "RBLHG-2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1362_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_2"
+  },
+  {
+    "name": "Groove 52",
+    "code": "RBGroove52HPnr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/771_m.png",
+    "product_url": "https://mikrotik.com/product/RBGroove52HPnr2"
+  },
+  {
+    "name": "SXTsq 5 ac",
+    "code": "RBSXTsqG-5acD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1374_m.png",
+    "product_url": "https://mikrotik.com/product/sxtsq_5_ac"
+  },
+  {
+    "name": "LDF 5 ac",
+    "code": "RBLDFG-5acD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1415_m.png",
+    "product_url": "https://mikrotik.com/product/ldf_5_ac"
+  },
+  {
+    "name": "LHG XL 2",
+    "code": "RBLHG-2nD-XL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1429_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_xl_2"
+  },
+  {
+    "name": "LHG 5",
+    "code": "RBLHG-5nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1282_m.png",
+    "product_url": "https://mikrotik.com/product/RBLHG-5nD"
+  },
+  {
+    "name": "GrooveA 52",
+    "code": "RBGrooveA-52HPnr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/772_m.png",
+    "product_url": "https://mikrotik.com/product/RBGrooveA-52HPnr2"
+  },
+  {
+    "name": "DISC Lite5 ac",
+    "code": "RBDiscG-5acD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1495_m.png",
+    "product_url": "https://mikrotik.com/product/disc_lite5_ac"
+  },
+  {
+    "name": "OmniTIK 5",
+    "code": "RBOmniTikU-5HnDr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/782_m.png",
+    "product_url": "https://mikrotik.com/product/RBOmniTikU-5HnDr2"
+  },
+  {
+    "name": "BaseBox 5",
+    "code": "RB912UAG-5HPnD-OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/779_m.png",
+    "product_url": "https://mikrotik.com/product/RB912UAG-5HPnD-OUT"
+  },
+  {
+    "name": "BaseBox 2",
+    "code": "RB912UAG-2HPnD-OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/662_m.png",
+    "product_url": "https://mikrotik.com/product/RB912UAG-2HPnD-OUT"
+  },
+  {
+    "name": "LHG XL HP5",
+    "code": "RBLHG-5HPnD-XL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1381_m.png",
+    "product_url": "https://mikrotik.com/product/RBLHG-5HPnD-XL"
+  },
+  {
+    "name": "BaseBox 6",
+    "code": "RB912UAG-6HPnD-OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1616_m.png",
+    "product_url": "https://mikrotik.com/product/basebox_6"
+  },
+  {
+    "name": "GrooveA 52 ac",
+    "code": "RBGrooveGA-52HPacn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1208_m.png",
+    "product_url": "https://mikrotik.com/product/RBGrooveGA-52HPacn"
+  },
+  {
+    "name": "SXT 6",
+    "code": "RBSXTG-6HPnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1281_m.png",
+    "product_url": "https://mikrotik.com/product/rbsxtg_6hpnd"
+  },
+  {
+    "name": "mANTBox 2 12s",
+    "code": "RB911G-2HPnD-12Sr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1609_m.png",
+    "product_url": "https://mikrotik.com/product/mantbox_2_12s"
+  },
+  {
+    "name": "NetBox 5",
+    "code": "RB911G-5HPacD-NB",
+    "image_url": "https://i.mt.lv/cdn/rb_images/933_m.png",
+    "product_url": "https://mikrotik.com/product/RB911G-5HPacD-NB"
+  },
+  {
+    "name": "LHG XL 5 ac",
+    "code": "RBLHGG-5acD-XL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1432_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_xl_5_ac"
+  },
+  {
+    "name": "SXT SA5 ac",
+    "code": "RBSXTG-5HPacD-SAr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1441_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXTG-5HPacD-SAr2"
+  },
+  {
+    "name": "Metal 52 ac",
+    "code": "RBMetalG-52SHPacn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1190_m.png",
+    "product_url": "https://mikrotik.com/product/RBMetalG-52SHPacn"
+  },
+  {
+    "name": "OmniTIK 5 ac",
+    "code": "RBOmniTikG-5HacD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1243_m.png",
+    "product_url": "https://mikrotik.com/product/rbomnitikg_5hacd"
+  },
+  {
+    "name": "mANTBox 15s",
+    "code": "RB921GS-5HPacD-15S",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1141_m.png",
+    "product_url": "https://mikrotik.com/product/RB921GS-5HPacD-15S"
+  },
+  {
+    "name": "OmniTIK 5 PoE ac",
+    "code": "RBOmniTikPG-5HacD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1247_m.png",
+    "product_url": "https://mikrotik.com/product/rbomnitikpg_5hacd"
+  },
+  {
+    "name": "NetMetal 5",
+    "code": "RB922UAGS-5HPacD-NM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1118_m.png",
+    "product_url": "https://mikrotik.com/product/RB922UAGS-5HPacD-NM"
+  },
+  {
+    "name": "NetMetal 5SHP",
+    "code": "RB921UAGS-5SHPacD-NM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1126_m.png",
+    "product_url": "https://mikrotik.com/product/RB921UAGS-5SHPacD-NM"
+  },
+  {
+    "name": "QRT 5",
+    "code": "RB911G-5HPnD-QRT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/919_m.png",
+    "product_url": "https://mikrotik.com/product/RB911G-5HPnD-QRT"
+  },
+  {
+    "name": "NetMetal ac²",
+    "code": "RBD23UGS-5HPacD2HnD-NM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1902_m.png",
+    "product_url": "https://mikrotik.com/product/netmetal_ac2"
+  },
+  {
+    "name": "mANTBox 52 15s",
+    "code": "RBD22UGS-5HPacD2HnD-15S",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1983_m.png",
+    "product_url": "https://mikrotik.com/product/mantbox_52_15s"
+  },
+  {
+    "name": "LHG XL 52 ac",
+    "code": "RBLHGG-5HPacD2HPnD-XL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1833_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_xl_52_ac"
+  },
+  {
+    "name": "DynaDish 5",
+    "code": "RBDynaDishG-5HacDr3",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1393_m.png",
+    "product_url": "https://mikrotik.com/product/RBDynaDishG-5HacDr3"
+  },
+  {
+    "name": "hAP lite",
+    "code": "RB941-2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1007_m.png",
+    "product_url": "https://mikrotik.com/product/RB941-2nD"
+  },
+  {
+    "name": "hAP lite TC",
+    "code": "RB941-2nD-TC",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1766_m.png",
+    "product_url": "https://mikrotik.com/product/RB941-2nD-TC"
+  },
+  {
+    "name": "cAP lite",
+    "code": "RBcAPL-2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1272_m.png",
+    "product_url": "https://mikrotik.com/product/RBcAPL-2nD-307"
+  },
+  {
+    "name": "mAP lite",
+    "code": "RBmAPL-2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1160_m.png",
+    "product_url": "https://mikrotik.com/product/RBmAPL-2nD"
+  },
+  {
+    "name": "mAP",
+    "code": "RBmAP2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1238_m.png",
+    "product_url": "https://mikrotik.com/product/RBmAP2nD"
+  },
+  {
+    "name": "hAP",
+    "code": "RB951Ui-2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1059_m.png",
+    "product_url": "https://mikrotik.com/product/RB951Ui-2nD"
+  },
+  {
+    "name": "cAP",
+    "code": "RBcAP2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1409_m.png",
+    "product_url": "https://mikrotik.com/product/RBcAP2nD"
+  },
+  {
+    "name": "hAP ac lite",
+    "code": "RB952Ui-5ac2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1413_m.png",
+    "product_url": "https://mikrotik.com/product/RB952Ui-5ac2nD"
+  },
+  {
+    "name": "hAP ac lite TC",
+    "code": "RB952Ui-5ac2nD-TC",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1230_m.png",
+    "product_url": "https://mikrotik.com/product/RB952Ui-5ac2nD-TC"
+  },
+  {
+    "name": "hAP ax lite",
+    "code": "L41G-2axD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2225_m.png",
+    "product_url": "https://mikrotik.com/product/hap_ax_lite"
+  },
+  {
+    "name": "RB951Ui-2HnD",
+    "code": "RB951Ui-2HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/902_m.png",
+    "product_url": "https://mikrotik.com/product/RB951Ui-2HnD"
+  },
+  {
+    "name": "hAP ac²",
+    "code": "RBD52G-5HacD2HnD-TCr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1468_m.png",
+    "product_url": "https://mikrotik.com/product/hap_ac2"
+  },
+  {
+    "name": "cAP ac",
+    "code": "RBcAPGi-5acD2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1447_m.png",
+    "product_url": "https://mikrotik.com/product/cap_ac"
+  },
+  {
+    "name": "wAP R",
+    "code": "RBwAPR-2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1313_m.png",
+    "product_url": "https://mikrotik.com/product/RBwAPR-2nD"
+  },
+  {
+    "name": "wAP ac",
+    "code": "RBwAPG-5HacD2HnDr3",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1988_m.png",
+    "product_url": "https://mikrotik.com/product/wap_ac"
+  },
+  {
+    "name": "KNOT",
+    "code": "RB924i-2nD-BT5&BG77r2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2035_m.png",
+    "product_url": "https://mikrotik.com/product/knot"
+  },
+  {
+    "name": "cAP XL ac",
+    "code": "RBcAPGi-5acD2nD-XLr4",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2099_m.png",
+    "product_url": "https://mikrotik.com/product/cap_xl_ac"
+  },
+  {
+    "name": "hAP ax²",
+    "code": "C52iG-5HaxD2HaxD-TC",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2203_m.png",
+    "product_url": "https://mikrotik.com/product/hap_ax2"
+  },
+  {
+    "name": "hAP ax lite LTE6",
+    "code": "L41G-2axD&FG621-EA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2276_m.png",
+    "product_url": "https://mikrotik.com/product/hap_ax_lite_lte6"
+  },
+  {
+    "name": "hAP ac³",
+    "code": "RBD53iG-5HacD2HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1975_m.png",
+    "product_url": "https://mikrotik.com/product/hap_ac3"
+  },
+  {
+    "name": "hAP ac",
+    "code": "RB962UiGS-5HacT2HnT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1169_m.png",
+    "product_url": "https://mikrotik.com/product/RB962UiGS-5HacT2HnT"
+  },
+  {
+    "name": "cAP ax",
+    "code": "cAPGi-5HaxD2HaxD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2247_m.png",
+    "product_url": "https://mikrotik.com/product/cap_ax"
+  },
+  {
+    "name": "hAP ax³",
+    "code": "C53UiG+5HPaxD2HPaxD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2211_m.png",
+    "product_url": "https://mikrotik.com/product/hap_ax3"
+  },
+  {
+    "name": "Chateau LTE6",
+    "code": "D53G-5HacD2HnD-TC&FG621-EA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2257_m.png",
+    "product_url": "https://mikrotik.com/product/chateau_lte6"
+  },
+  {
+    "name": "Audience",
+    "code": "RBD25G-5HPacQD2HPnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1854_m.png",
+    "product_url": "https://mikrotik.com/product/audience"
+  },
+  {
+    "name": "Chateau LTE6-US",
+    "code": "D53G-5HacD2HnD-TC&EG06-A",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2187_m.png",
+    "product_url": "https://mikrotik.com/product/chateau_lte6_us"
+  },
+  {
+    "name": "Chateau LTE6 ax",
+    "code": "S53UG+5HaxD2HaxD-TC&FG621-EA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2260_m.png",
+    "product_url": "https://mikrotik.com/product/chateau_lte6_ax"
+  },
+  {
+    "name": "Chateau LTE12",
+    "code": "RBD53G-5HacD2HnD-TC&EG12-EA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1914_m.png",
+    "product_url": "https://mikrotik.com/product/chateau_lte12"
+  },
+  {
+    "name": "RB4011iGS+5HacQ2HnD-IN",
+    "code": "RB4011iGS+5HacQ2HnD-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1630_m.png",
+    "product_url": "https://mikrotik.com/product/rb4011igs_5hacq2hnd_in"
+  },
+  {
+    "name": "Chateau LTE18 ax",
+    "code": "S53UG+5HaxD2HaxD-TC&EG18-EA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2205_m.png",
+    "product_url": "https://mikrotik.com/product/chateaulte18_ax"
+  },
+  {
+    "name": "Chateau 5G",
+    "code": "D53G-5HacD2HnD-TC&RG502Q-EA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2049_m.png",
+    "product_url": "https://mikrotik.com/product/chateau_5g"
+  },
+  {
+    "name": "Chateau 5G ax",
+    "code": "S53UG+M-5HaxD2HaxD-TC&RG502Q-EA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2208_m.png",
+    "product_url": "https://mikrotik.com/product/chateau_5g_ax"
+  },
+  {
+    "name": "R11eL-EC200A-EU",
+    "code": "R11eL-EC200A-EU",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2301_m.png",
+    "product_url": "https://mikrotik.com/product/r11el_ec200a_eu"
+  },
+  {
+    "name": "R11eL-FG621-EA",
+    "code": "R11eL-FG621-EA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2294_m.png",
+    "product_url": "https://mikrotik.com/product/r11el_fg621_ea"
+  },
+  {
+    "name": "SXT R",
+    "code": "RBSXTRr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1878_m.png",
+    "product_url": "https://mikrotik.com/product/sxt_r"
+  },
+  {
+    "name": "LtAP mini",
+    "code": "RB912R-2nD-LTm",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1510_m.png",
+    "product_url": "https://mikrotik.com/product/ltap_mini"
+  },
+  {
+    "name": "LHG R",
+    "code": "RBLHGR",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1874_m.png",
+    "product_url": "https://mikrotik.com/product/rblhgr"
+  },
+  {
+    "name": "wAP LTE kit",
+    "code": "RBwAPR-2nD&R11e-LTE",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1316_m.png",
+    "product_url": "https://mikrotik.com/product/wap_lte_kit"
+  },
+  {
+    "name": "wAP R ac",
+    "code": "RBwAPGR-5HacD2HnDr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1792_m.png",
+    "product_url": "https://mikrotik.com/product/wap_r_ac"
+  },
+  {
+    "name": "LtAP mini LTE kit",
+    "code": "RB912R-2nD-LTm&R11e-LTE",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1513_m.png",
+    "product_url": "https://mikrotik.com/product/ltap_mini_lte_kit"
+  },
+  {
+    "name": "SXT LTE6 kit-US",
+    "code": "SXTR&EP06-A",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2199_m.png",
+    "product_url": "https://mikrotik.com/product/sxt_lte6_kit_us"
+  },
+  {
+    "name": "LHG LTE kit",
+    "code": "RBLHGR&R11e-LTE",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1662_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_lte_kit"
+  },
+  {
+    "name": "wAP ac LTE kit",
+    "code": "RBwAPGR-5HacD2HnD&R11e-LTEr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1794_m.png",
+    "product_url": "https://mikrotik.com/product/wap_ac_lte_kit"
+  },
+  {
+    "name": "LtAP",
+    "code": "RBLtAP-2HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1798_m.png",
+    "product_url": "https://mikrotik.com/product/ltap"
+  },
+  {
+    "name": "LHG LTE6 kit",
+    "code": "RBLHGR&R11e-LTE6",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1886_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_lte6_kit"
+  },
+  {
+    "name": "wAP ac LTE6 kit",
+    "code": "RBwAPGR-5HacD2HnD&R11e-LTE6r2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1890_m.png",
+    "product_url": "https://mikrotik.com/product/wap_ac_lte6_kit"
+  },
+  {
+    "name": "LtAP LTE kit",
+    "code": "RBLtAP-2HnD&R11e-LTE",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1804_m.png",
+    "product_url": "https://mikrotik.com/product/ltap_lte_kit"
+  },
+  {
+    "name": "LHG LTE18 kit",
+    "code": "LHGGM&EG18-EA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2165_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_lte18"
+  },
+  {
+    "name": "ATL LTE18 kit",
+    "code": "ATLGM&EG18-EA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2214_m.png",
+    "product_url": "https://mikrotik.com/product/atl18"
+  },
+  {
+    "name": "LtAP LR8 LTE kit",
+    "code": "RBLtAP-2HnD&R11e-LTE&LR8r2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2022_m.png",
+    "product_url": "https://mikrotik.com/product/ltap_lr8_lte_kit"
+  },
+  {
+    "name": "ACSMAUFL",
+    "code": "ACSMAUFL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1379_m.png",
+    "product_url": "https://mikrotik.com/product/acsmaufl"
+  },
+  {
+    "name": "SMASMA",
+    "code": "SMASMA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1462_m.png",
+    "product_url": "https://mikrotik.com/product/smasma"
+  },
+  {
+    "name": "ACGPSA",
+    "code": "ACGPSA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1509_m.png",
+    "product_url": "https://mikrotik.com/product/acgpsa"
+  },
+  {
+    "name": "DINrail PRO",
+    "code": "DRP-LTM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1674_m.png",
+    "product_url": "https://mikrotik.com/product/dinrail_pro"
+  },
+  {
+    "name": "HGO-LTE-W",
+    "code": "HGO-LTE-W",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2086_m.png",
+    "product_url": "https://mikrotik.com/product/hgo_lte_w"
+  },
+  {
+    "name": "mANT LTE 5o",
+    "code": "MTAO-LTE-5D-SQ",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1529_m.png",
+    "product_url": "https://mikrotik.com/product/mant_lte_5o"
+  },
+  {
+    "name": "R11e-LTE",
+    "code": "R11e-LTE",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1425_m.png",
+    "product_url": "https://mikrotik.com/product/r11e_lte"
+  },
+  {
+    "name": "Intercell 10 B38+B39",
+    "code": "P02003-B38B39-10W",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1926_m.png",
+    "product_url": "https://mikrotik.com/product/intercell_10_b38_b39"
+  },
+  {
+    "name": "PWR-LINE US",
+    "code": "PL6400",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1774_m.png",
+    "product_url": "https://mikrotik.com/product/pwr_line_us"
+  },
+  {
+    "name": "wAP LR8 kit",
+    "code": "RBwAPR-2nD&R11e-LR8",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1970_m.png",
+    "product_url": "https://mikrotik.com/product/wap_lr8_kit"
+  },
+  {
+    "name": "wAP LR9 kit",
+    "code": "RBwAPR-2nD&R11e-LR9",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1971_m.png",
+    "product_url": "https://mikrotik.com/product/wap_lr9_kit"
+  },
+  {
+    "name": "KNOT LR8 kit",
+    "code": "RB924iR-2nD-BT5&BG77&R11e-LR8",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2080_m.png",
+    "product_url": "https://mikrotik.com/product/knot_lr8"
+  },
+  {
+    "name": "KNOT LR9 kit",
+    "code": "RB924iR-2nD-BT5&BG77&R11e-LR9",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2083_m.png",
+    "product_url": "https://mikrotik.com/product/knot_lr9"
+  },
+  {
+    "name": "TG-BT5-IN",
+    "code": "TG-BT5-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2113_m.png",
+    "product_url": "https://mikrotik.com/product/tg_bt5_in"
+  },
+  {
+    "name": "TG-BT5-OUT",
+    "code": "TG-BT5-OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2079_m.png",
+    "product_url": "https://mikrotik.com/product/tg_bt5_out"
+  },
+  {
+    "name": "868 Omni antenna",
+    "code": "868_Omni_antenna",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2104_m.png",
+    "product_url": "https://mikrotik.com/product/868_omni_antenna"
+  },
+  {
+    "name": "TOF-2400-8V-4 Omni antenna",
+    "code": "TOF-2400-8V-4",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2120_m.png",
+    "product_url": "https://mikrotik.com/product/tof_2400_8v_4"
+  },
+  {
+    "name": "915 Omni antenna",
+    "code": "915_Omni_antenna",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2272_m.png",
+    "product_url": "https://mikrotik.com/product/915_omni_antenna"
+  },
+  {
+    "name": "R11e-LR2",
+    "code": "R11e-LR2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2121_m.png",
+    "product_url": "https://mikrotik.com/product/r11e_lr2"
+  },
+  {
+    "name": "R11e-LR8",
+    "code": "R11e-LR8",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1865_m.png",
+    "product_url": "https://mikrotik.com/product/r11e_lr8"
+  },
+  {
+    "name": "R11e-LR9",
+    "code": "R11e-LR9",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1867_m.png",
+    "product_url": "https://mikrotik.com/product/r11e_lr9"
+  },
+  {
+    "name": "wAP LR2 kit",
+    "code": "RBwAPR-2nD&R11e-LR2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2119_m.png",
+    "product_url": "https://mikrotik.com/product/wap_lr2"
+  },
+  {
+    "name": "wAP 60G",
+    "code": "RBwAPG-60ad",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1473_m.png",
+    "product_url": "https://mikrotik.com/product/wap_60g"
+  },
+  {
+    "name": "wAP 60G AP",
+    "code": "RBwAPG-60ad-A",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1474_m.png",
+    "product_url": "https://mikrotik.com/product/wap_60g_ap"
+  },
+  {
+    "name": "LHG 60G",
+    "code": "RBLHGG-60adr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1814_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_60g"
+  },
+  {
+    "name": "Cube 60Pro ac",
+    "code": "CubeG-5ac60ay",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2138_m.png",
+    "product_url": "https://mikrotik.com/product/cube_60pro_ac"
+  },
+  {
+    "name": "CubeSA 60Pro ac",
+    "code": "CubeG-5ac60ay-SA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2144_m.png",
+    "product_url": "https://mikrotik.com/product/cubesa_60pro_ac"
+  },
+  {
+    "name": "Wireless Wire",
+    "code": "RBwAPG-60adkit",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1355_m.png",
+    "product_url": "https://mikrotik.com/product/wireless_wire"
+  },
+  {
+    "name": "Wireless Wire Dish",
+    "code": "RBLHGG-60adkit",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1507_m.png",
+    "product_url": "https://mikrotik.com/product/wireless_wire_dish"
+  },
+  {
+    "name": "Wireless Wire nRAY",
+    "code": "nRAYG-60adpair",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1960_m.png",
+    "product_url": "https://mikrotik.com/product/wireless_wire_nray"
+  },
+  {
+    "name": "Wireless Wire Cube Pro",
+    "code": "CubeG-5ac60aypair",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2142_m.png",
+    "product_url": "https://mikrotik.com/product/wireless_wire_cube_pro"
+  },
+  {
+    "name": "911 Lite5 dual",
+    "code": "RB911-5HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/922_m.png",
+    "product_url": "https://mikrotik.com/product/RB911-5HnD"
+  },
+  {
+    "name": "RBM11G",
+    "code": "RBM11G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1340_m.png",
+    "product_url": "https://mikrotik.com/product/m11g"
+  },
+  {
+    "name": "911 Lite5 ac",
+    "code": "RB911-5HacD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1194_m.png",
+    "product_url": "https://mikrotik.com/product/RB911-5HacD"
+  },
+  {
+    "name": "RB911G-5HPnD",
+    "code": "RB911G-5HPnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/883_m.png",
+    "product_url": "https://mikrotik.com/product/RB911G-5HPnD"
+  },
+  {
+    "name": "RBM33G",
+    "code": "RBM33G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1968_m.png",
+    "product_url": "https://mikrotik.com/product/rbm33g"
+  },
+  {
+    "name": "RB912UAG-5HPnD",
+    "code": "RB912UAG-5HPnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/884_m.png",
+    "product_url": "https://mikrotik.com/product/RB912UAG-5HPnD"
+  },
+  {
+    "name": "RB912UAG-2HPnD",
+    "code": "RB912UAG-2HPnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/885_m.png",
+    "product_url": "https://mikrotik.com/product/RB912UAG-2HPnD"
+  },
+  {
+    "name": "RB911G-5HPacD",
+    "code": "RB911G-5HPacDr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/980_m.png",
+    "product_url": "https://mikrotik.com/product/RB911G-5HPacD"
+  },
+  {
+    "name": "RB922UAGS-5HPacD",
+    "code": "RB922UAGS-5HPacD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/984_m.png",
+    "product_url": "https://mikrotik.com/product/RB922UAGS-5HPacD"
+  },
+  {
+    "name": "RB450Gx4",
+    "code": "RB450Gx4",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1533_m.png",
+    "product_url": "https://mikrotik.com/product/rb450gx4"
+  },
+  {
+    "name": "CA411-711",
+    "code": "CA411-711",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1061_m.png",
+    "product_url": "https://mikrotik.com/product/CA411-711"
+  },
+  {
+    "name": "CA150",
+    "code": "CA150",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1677_m.png",
+    "product_url": "https://mikrotik.com/product/CA150"
+  },
+  {
+    "name": "CA433U",
+    "code": "CA433U",
+    "image_url": "https://i.mt.lv/cdn/rb_images/836_m.png",
+    "product_url": "https://mikrotik.com/product/CA433U"
+  },
+  {
+    "name": "R11e-5HnD",
+    "code": "R11e-5HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/815_m.png",
+    "product_url": "https://mikrotik.com/product/R11e-5HnD"
+  },
+  {
+    "name": "R11e-2HPnD",
+    "code": "R11e-2HPnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/666_m.png",
+    "product_url": "https://mikrotik.com/product/R11e-2HPnD"
+  },
+  {
+    "name": "R11e-2HnD",
+    "code": "R11e-2HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/667_m.png",
+    "product_url": "https://mikrotik.com/product/R11e-2HnD"
+  },
+  {
+    "name": "R11e-5HacD",
+    "code": "R11e-5HacD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/981_m.png",
+    "product_url": "https://mikrotik.com/product/R11e-5HacD"
+  },
+  {
+    "name": "R52HnD",
+    "code": "R52HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1204_m.png",
+    "product_url": "https://mikrotik.com/product/R52HnD"
+  },
+  {
+    "name": "QM-X",
+    "code": "QM-X",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1829_m.png",
+    "product_url": "https://mikrotik.com/product/qm_x"
+  },
+  {
+    "name": "RBPOE",
+    "code": "RBPOE",
+    "image_url": "https://i.mt.lv/cdn/rb_images/848_m.png",
+    "product_url": "https://mikrotik.com/product/RBPOE"
+  },
+  {
+    "name": "K-65",
+    "code": "K-65",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1725_m.png",
+    "product_url": "https://mikrotik.com/product/k_65"
+  },
+  {
+    "name": "nRayAIM-DH1",
+    "code": "nRayAIM-DH1",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1986_m.png",
+    "product_url": "https://mikrotik.com/product/nrayaim_dh1"
+  },
+  {
+    "name": "QMP-LDF",
+    "code": "QMP-LDF",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2178_m.png",
+    "product_url": "https://mikrotik.com/product/qmp_ldf"
+  },
+  {
+    "name": "QM",
+    "code": "QM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1443_m.png",
+    "product_url": "https://mikrotik.com/product/QM"
+  },
+  {
+    "name": "GPeR IP67 Case",
+    "code": "GPeR-IP67-Case",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1866_m.png",
+    "product_url": "https://mikrotik.com/product/gper_ip67_case"
+  },
+  {
+    "name": "RB5009/L009 rackmount kit K-79",
+    "code": "K-79",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2070_m.png",
+    "product_url": "https://mikrotik.com/product/rb5009_mount"
+  },
+  {
+    "name": "RBGPOE",
+    "code": "RBGPOE",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1967_m.png",
+    "product_url": "https://mikrotik.com/product/RBGPOE"
+  },
+  {
+    "name": "ACOMNIRPSMA",
+    "code": "ACOMNIRPSMA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/865_m.png",
+    "product_url": "https://mikrotik.com/product/ACOMNIRPSMA"
+  },
+  {
+    "name": "RB2011 Wall Mount Kit",
+    "code": "RB2011-H",
+    "image_url": "https://i.mt.lv/cdn/rb_images/703_m.png",
+    "product_url": "https://mikrotik.com/product/RBWMK"
+  },
+  {
+    "name": "18POW",
+    "code": "18POW",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1924_m.png",
+    "product_url": "https://mikrotik.com/product/18POW"
+  },
+  {
+    "name": "Flex-guide",
+    "code": "ACRPSMA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/685_m.png",
+    "product_url": "https://mikrotik.com/product/ACRPSMA"
+  },
+  {
+    "name": "ACMMCXRPSMA",
+    "code": "ACMMCXRPSMA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/862_m.png",
+    "product_url": "https://mikrotik.com/product/ACMMCXRPSMA"
+  },
+  {
+    "name": "HGO-antenna-OUT",
+    "code": "HGO-antenna-OUT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1908_m.png",
+    "product_url": "https://mikrotik.com/product/hgo_antenna_out"
+  },
+  {
+    "name": "RMK-2/10",
+    "code": "RMK-2/10",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2242_m.png",
+    "product_url": "https://mikrotik.com/product/rmk2_10"
+  },
+  {
+    "name": "QMP",
+    "code": "QMP",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1064_m.png",
+    "product_url": "https://mikrotik.com/product/QMP"
+  },
+  {
+    "name": "QMP-LHG",
+    "code": "QMP-LHG",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1210_m.png",
+    "product_url": "https://mikrotik.com/product/QMP-LHG"
+  },
+  {
+    "name": "QME",
+    "code": "QME",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1444_m.png",
+    "product_url": "https://mikrotik.com/product/QME"
+  },
+  {
+    "name": "RB4011 wall mount kit",
+    "code": "WMK4011",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1721_m.png",
+    "product_url": "https://mikrotik.com/product/rb4011_wall_mount_kit"
+  },
+  {
+    "name": "MT48-480095-11DG",
+    "code": "MT48-480095-11DG",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1917_m.png",
+    "product_url": "https://mikrotik.com/product/mt48_480095_11dg"
+  },
+  {
+    "name": "MT48-570080-11DG",
+    "code": "MT48-570080-11DG",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1918_m.png",
+    "product_url": "https://mikrotik.com/product/mt48_570080_11dg"
+  },
+  {
+    "name": "SAW30-240-1200GA",
+    "code": "SAW30-240-1200GA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2028_m.png",
+    "product_url": "https://mikrotik.com/product/saw30_240_1200ga"
+  },
+  {
+    "name": "SAW30-240-1200GR2A",
+    "code": "SAW30-240-1200GR2A",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2030_m.png",
+    "product_url": "https://mikrotik.com/product/saw30_240_1200gr2a"
+  },
+  {
+    "name": "GESP+POE-IN",
+    "code": "GESP+POE-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2062_m.png",
+    "product_url": "https://mikrotik.com/product/gesp_poe_in"
+  },
+  {
+    "name": "GPEN11",
+    "code": "GPEN11",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1744_m.png",
+    "product_url": "https://mikrotik.com/product/gpen11"
+  },
+  {
+    "name": "ACSWIM",
+    "code": "ACSWIM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/792_m.png",
+    "product_url": "https://mikrotik.com/product/ACSWIM"
+  },
+  {
+    "name": "LHG mount",
+    "code": "LHGmount",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1675_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_mount"
+  },
+  {
+    "name": "24HPOW",
+    "code": "24HPOW",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1488_m.png",
+    "product_url": "https://mikrotik.com/product/24HPOW"
+  },
+  {
+    "name": "48POW",
+    "code": "48POW",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1476_m.png",
+    "product_url": "https://mikrotik.com/product/48POW"
+  },
+  {
+    "name": "solidMOUNT",
+    "code": "solidMOUNT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1696_m.png",
+    "product_url": "https://mikrotik.com/product/solidmount"
+  },
+  {
+    "name": "GESP",
+    "code": "GESPr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2031_m.png",
+    "product_url": "https://mikrotik.com/product/rbgesp"
+  },
+  {
+    "name": "GPeR",
+    "code": "GPeR",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1791_m.png",
+    "product_url": "https://mikrotik.com/product/gper"
+  },
+  {
+    "name": "GB60A-S12",
+    "code": "GB60A-S12",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1880_m.png",
+    "product_url": "https://mikrotik.com/product/gb60a_s12"
+  },
+  {
+    "name": "RBGPOE-CON-HP",
+    "code": "RBGPOE-CON-HP",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1181_m.png",
+    "product_url": "https://mikrotik.com/product/rbgpoe_con_hp"
+  },
+  {
+    "name": "RBFTC11",
+    "code": "RBFTC11",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1478_m.png",
+    "product_url": "https://mikrotik.com/product/RBFTC11"
+  },
+  {
+    "name": "48V2A96W",
+    "code": "48V2A96W",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1520_m.png",
+    "product_url": "https://mikrotik.com/product/48v2a96w"
+  },
+  {
+    "name": "MT-HotSwapFan",
+    "code": "MT-HotSwapFan",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2171_m.png",
+    "product_url": "https://mikrotik.com/product/hotswapfan"
+  },
+  {
+    "name": "GPEN21",
+    "code": "GPEN21",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1946_m.png",
+    "product_url": "https://mikrotik.com/product/gpen21"
+  },
+  {
+    "name": "PW48V-12V85W",
+    "code": "PW48V-12V85W",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1750_m.png",
+    "product_url": "https://mikrotik.com/product/pw48v_12v85w"
+  },
+  {
+    "name": "SolidRack 10",
+    "code": "SR-10U",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2202_m.png",
+    "product_url": "https://mikrotik.com/product/rack_holder_sr_10u"
+  },
+  {
+    "name": "G1040A-60WF",
+    "code": "G1040A-60WF",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2108_m.png",
+    "product_url": "https://mikrotik.com/product/g1040a_60wf"
+  },
+  {
+    "name": "UP1302C-12",
+    "code": "UP1302C-12",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1881_m.png",
+    "product_url": "https://mikrotik.com/product/up1302c_12"
+  },
+  {
+    "name": "MTP250-53V47-OD",
+    "code": "MTP250-53V47-OD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2074_m.png",
+    "product_url": "https://mikrotik.com/product/mtp250_53v47_od"
+  },
+  {
+    "name": "MTP250-26V94-OD",
+    "code": "MTP250-26V94-OD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2075_m.png",
+    "product_url": "https://mikrotik.com/product/mtp250_26v94_od"
+  },
+  {
+    "name": "12POW150",
+    "code": "12POW150",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1414_m.png",
+    "product_url": "https://mikrotik.com/product/12pow150"
+  },
+  {
+    "name": "PW48V-12V150W",
+    "code": "PW48V-12V150W",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1343_m.png",
+    "product_url": "https://mikrotik.com/product/hot_swap__48v_dc_telecom_power_supply_for_ccr1072"
+  },
+  {
+    "name": "MTA Radome Kit",
+    "code": "MTRADC",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1442_m.png",
+    "product_url": "https://mikrotik.com/product/MTRADC"
+  },
+  {
+    "name": "mANT 15s",
+    "code": "MTAS-5G-15D120",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1086_m.png",
+    "product_url": "https://mikrotik.com/product/MTAS-5G-15D120"
+  },
+  {
+    "name": "mANT 19S",
+    "code": "MTAS-5G-19D120",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1092_m.png",
+    "product_url": "https://mikrotik.com/product/MTAS-5G-19D120"
+  },
+  {
+    "name": "Sleeve30",
+    "code": "Sleeve30",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1133_m.png",
+    "product_url": "https://mikrotik.com/product/Sleeve30"
+  },
+  {
+    "name": "mANT30",
+    "code": "MTAD-5G-30D3",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1498_m.png",
+    "product_url": "https://mikrotik.com/product/MTAD-5G-30D3"
+  },
+  {
+    "name": "mANT30 PA",
+    "code": "MTAD-5G-30D3-PA",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1499_m.png",
+    "product_url": "https://mikrotik.com/product/MTAD-5G-30D3-PA"
+  },
+  {
+    "name": "S-85DLC05D",
+    "code": "S-85DLC05D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/810_m.png",
+    "product_url": "https://mikrotik.com/product/S-85DLC05D-180"
+  },
+  {
+    "name": "S-31DLC20D",
+    "code": "S-31DLC20D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/811_m.png",
+    "product_url": "https://mikrotik.com/product/S-31DLC20D-181"
+  },
+  {
+    "name": "S-RJ01",
+    "code": "S-RJ01",
+    "image_url": "https://i.mt.lv/cdn/rb_images/929_m.png",
+    "product_url": "https://mikrotik.com/product/S-RJ01"
+  },
+  {
+    "name": "XS+DA0001",
+    "code": "XS+DA0001",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2003_m.png",
+    "product_url": "https://mikrotik.com/product/xs_da0001"
+  },
+  {
+    "name": "S-C51DLC40D",
+    "code": "S-C51DLC40D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1587_m.png",
+    "product_url": "https://mikrotik.com/product/s_c51dlc40d"
+  },
+  {
+    "name": "S-C53DLC40D",
+    "code": "S-C53DLC40D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1589_m.png",
+    "product_url": "https://mikrotik.com/product/s_c53dlc40d"
+  },
+  {
+    "name": "S-C55DLC40D",
+    "code": "S-C55DLC40D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1591_m.png",
+    "product_url": "https://mikrotik.com/product/s_c55dlc40d"
+  },
+  {
+    "name": "S-C57DLC40D",
+    "code": "S-C57DLC40D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1592_m.png",
+    "product_url": "https://mikrotik.com/product/s_c57dlc40d"
+  },
+  {
+    "name": "S-C59DLC40D",
+    "code": "S-C59DLC40D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1593_m.png",
+    "product_url": "https://mikrotik.com/product/s_c59dlc40d"
+  },
+  {
+    "name": "S-C61DLC40D",
+    "code": "S-C61DLC40D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1594_m.png",
+    "product_url": "https://mikrotik.com/product/s_c61dlc40d"
+  },
+  {
+    "name": "S-55DLC80D",
+    "code": "S-55DLC80D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1614_m.png",
+    "product_url": "https://mikrotik.com/product/s_55dlc80d"
+  },
+  {
+    "name": "XS+DA0003",
+    "code": "XS+DA0003",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2002_m.png",
+    "product_url": "https://mikrotik.com/product/xs_da0003"
+  },
+  {
+    "name": "XQ+DA0001",
+    "code": "XQ+DA0001",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2185_m.png",
+    "product_url": "https://mikrotik.com/product/xq_da0001"
+  },
+  {
+    "name": "S+AO0005",
+    "code": "S+AO0005",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1729_m.png",
+    "product_url": "https://mikrotik.com/product/s_ao0005"
+  },
+  {
+    "name": "S+85DLC03D",
+    "code": "S+85DLC03D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/813_m.png",
+    "product_url": "https://mikrotik.com/product/Splus85DLC03D"
+  },
+  {
+    "name": "CWDM-CHASSIS-2",
+    "code": "CWDM-CHASSIS-2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1582_m.png",
+    "product_url": "https://mikrotik.com/product/cwdm_chassis_2"
+  },
+  {
+    "name": "XQ+DA0003",
+    "code": "XQ+DA0003",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2186_m.png",
+    "product_url": "https://mikrotik.com/product/xq_da0003"
+  },
+  {
+    "name": "S+RJ10",
+    "code": "S+RJ10r2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1351_m.png",
+    "product_url": "https://mikrotik.com/product/s_rj10"
+  },
+  {
+    "name": "S-3553LC20D",
+    "code": "S-3553LC20D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/812_m.png",
+    "product_url": "https://mikrotik.com/product/S-3553LC20D"
+  },
+  {
+    "name": "XQ+BC0003-XS+",
+    "code": "XQ+BC0003-XS+",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2184_m.png",
+    "product_url": "https://mikrotik.com/product/xq_bc0003_xs_"
+  },
+  {
+    "name": "S-4554LC80D",
+    "code": "S-4554LC80D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1615_m.png",
+    "product_url": "https://mikrotik.com/product/s_4554lc80d"
+  },
+  {
+    "name": "XQ+85MP01D",
+    "code": "XQ+85MP01D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2201_m.png",
+    "product_url": "https://mikrotik.com/product/xq_85mp01d"
+  },
+  {
+    "name": "XS+31LC10D",
+    "code": "XS+31LC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2027_m.png",
+    "product_url": "https://mikrotik.com/product/xs_31lc10d"
+  },
+  {
+    "name": "XQ+31LC02D",
+    "code": "XQ+31LC02D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2183_m.png",
+    "product_url": "https://mikrotik.com/product/xq_31lc02d"
+  },
+  {
+    "name": "XS+2733LC15D",
+    "code": "XS+2733LC15D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2054_m.png",
+    "product_url": "https://mikrotik.com/product/xs_2733lc15d"
+  },
+  {
+    "name": "XQ+31LC10D",
+    "code": "XQ+31LC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2223_m.png",
+    "product_url": "https://mikrotik.com/product/xq_31lc10d"
+  },
+  {
+    "name": "CWDM-MUX8A",
+    "code": "CWDM-MUX8A",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2100_m.png",
+    "product_url": "https://mikrotik.com/product/cwdm_mux8a"
+  },
+  {
+    "name": "RB750GL",
+    "code": "RB750GL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/673_m.png",
+    "product_url": "https://mikrotik.com/product/RB750GL"
+  },
+  {
+    "name": "RB750UP",
+    "code": "RB750UP",
+    "image_url": "https://i.mt.lv/cdn/rb_images/672_m.png",
+    "product_url": "https://mikrotik.com/product/RB750UP"
+  },
+  {
+    "name": "RB750G",
+    "code": "RB750G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1678_m.png",
+    "product_url": "https://mikrotik.com/product/RB750G"
+  },
+  {
+    "name": "RB2011L",
+    "code": "RB2011L",
+    "image_url": "https://i.mt.lv/cdn/rb_images/674_m.png",
+    "product_url": "https://mikrotik.com/product/RB2011L"
+  },
+  {
+    "name": "RB2011LS",
+    "code": "RB2011LS",
+    "image_url": "https://i.mt.lv/cdn/rb_images/647_m.png",
+    "product_url": "https://mikrotik.com/product/RB2011LS"
+  },
+  {
+    "name": "RB2011UiAS-2HnD",
+    "code": "RB2011UiAS-2HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/677_m.png",
+    "product_url": "https://mikrotik.com/product/RB2011UiAS-2HnD"
+  },
+  {
+    "name": "RB2011iL-IN",
+    "code": "RB2011iL-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1107_m.png",
+    "product_url": "https://mikrotik.com/product/RB2011iL-IN"
+  },
+  {
+    "name": "RB2011iL-RM",
+    "code": "RB2011iL-RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1109_m.png",
+    "product_url": "https://mikrotik.com/product/RB2011iL-RM"
+  },
+  {
+    "name": "RB2011iLS-IN",
+    "code": "RB2011iLS-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1106_m.png",
+    "product_url": "https://mikrotik.com/product/RB2011iLS-IN"
+  },
+  {
+    "name": "RB2011UiAS-IN",
+    "code": "RB2011UiAS-INr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1504_m.png",
+    "product_url": "https://mikrotik.com/product/RB2011UiAS-IN"
+  },
+  {
+    "name": "RB2011UiAS-RM",
+    "code": "RB2011UiAS-RMr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1505_m.png",
+    "product_url": "https://mikrotik.com/product/RB2011UiAS-RM"
+  },
+  {
+    "name": "RB1100AHx2-LM",
+    "code": "RB1100AHx2-LM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/908_m.png",
+    "product_url": "https://mikrotik.com/product/RB1100AHx2-LM"
+  },
+  {
+    "name": "RB1100AHx2",
+    "code": "RB1100AHx2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/718_m.png",
+    "product_url": "https://mikrotik.com/product/RB1100AHx2"
+  },
+  {
+    "name": "RB1200",
+    "code": "RB1200",
+    "image_url": "https://i.mt.lv/cdn/rb_images/858_m.png",
+    "product_url": "https://mikrotik.com/product/RB1200"
+  },
+  {
+    "name": "RB1100AH",
+    "code": "RB1100AH",
+    "image_url": "https://i.mt.lv/cdn/rb_images/868_m.png",
+    "product_url": "https://mikrotik.com/product/RB1100AH"
+  },
+  {
+    "name": "RB1100Hx2",
+    "code": "RB1100Hx2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/869_m.png",
+    "product_url": "https://mikrotik.com/product/RB1100Hx2"
+  },
+  {
+    "name": "RB1100",
+    "code": "RB1100",
+    "image_url": "https://i.mt.lv/cdn/rb_images/873_m.png",
+    "product_url": "https://mikrotik.com/product/RB1100"
+  },
+  {
+    "name": "CCR1009-8G-1S",
+    "code": "CCR1009-8G-1S",
+    "image_url": "https://i.mt.lv/cdn/rb_images/916_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1009-8G-1S"
+  },
+  {
+    "name": "CCR1009-8G-1S-PC",
+    "code": "CCR1009-8G-1S-PC",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1155_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1009-8G-1S-PC"
+  },
+  {
+    "name": "CCR1009-7G-1C-PC",
+    "code": "CCR1009-7G-1C-PC",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1411_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1009-7G-1C-PC"
+  },
+  {
+    "name": "CCR1009-8G-1S-1S+",
+    "code": "CCR1009-8G-1S-1S+",
+    "image_url": "https://i.mt.lv/cdn/rb_images/917_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1009-8G-1S-1Splus"
+  },
+  {
+    "name": "CCR1009-8G-1S-1S+PC",
+    "code": "CCR1009-8G-1S-1S+PC",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1001_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1009-8G-1S-1SplusPC"
+  },
+  {
+    "name": "CCR1009-7G-1C-1S+",
+    "code": "CCR1009-7G-1C-1S+",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1228_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1009-7G-1C-1Splus"
+  },
+  {
+    "name": "CCR1009-7G-1C-1S+PC",
+    "code": "CCR1009-7G-1C-1S+PC",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1410_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1009-7G-1C-1SplusPC"
+  },
+  {
+    "name": "CCR1016-12G-BU",
+    "code": "CCR1016-12G-BU",
+    "image_url": "https://i.mt.lv/cdn/rb_images/679_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1016-12G-BU"
+  },
+  {
+    "name": "RB1000",
+    "code": "RB1000",
+    "image_url": "https://i.mt.lv/cdn/rb_images/876_m.png",
+    "product_url": "https://mikrotik.com/product/RB1000"
+  },
+  {
+    "name": "RB1000U",
+    "code": "RB1000U",
+    "image_url": "https://i.mt.lv/cdn/rb_images/875_m.png",
+    "product_url": "https://mikrotik.com/product/RB1000U"
+  },
+  {
+    "name": "CCR1016-12G",
+    "code": "CCR1016-12Gr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1818_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1016-12G"
+  },
+  {
+    "name": "CCR1016-12S-1S+",
+    "code": "CCR1016-12S-1S+r2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1824_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1016-12S-1Splus"
+  },
+  {
+    "name": "CCR1036-12G-4S",
+    "code": "CCR1036-12G-4Sr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1820_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1036-12G-4S-149"
+  },
+  {
+    "name": "CCR1036-8G-2S+",
+    "code": "CCR1036-8G-2S+r2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1738_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1036-8G-2Splus"
+  },
+  {
+    "name": "CCR1036-12G-4S-EM",
+    "code": "CCR1036-12G-4S-EMr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1819_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1036-12G-4S-EM"
+  },
+  {
+    "name": "CCR1036-8G-2S+EM",
+    "code": "CCR1036-8G-2S+EMr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1740_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1036-8G-2SplusEM"
+  },
+  {
+    "name": "CCR1072-1G-8S+",
+    "code": "CCR1072-1G-8S+",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1055_m.png",
+    "product_url": "https://mikrotik.com/product/CCR1072-1G-8Splus"
+  },
+  {
+    "name": "RB250GS",
+    "code": "RB250GS",
+    "image_url": "https://i.mt.lv/cdn/rb_images/855_m.png",
+    "product_url": "https://mikrotik.com/product/RB250GS"
+  },
+  {
+    "name": "FiberBox",
+    "code": "CRS105-5S-FB",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1367_m.png",
+    "product_url": "https://mikrotik.com/product/fiberbox"
+  },
+  {
+    "name": "CRS109-8G-1S-2HnD-IN",
+    "code": "CRS109-8G-1S-2HnD-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1211_m.png",
+    "product_url": "https://mikrotik.com/product/CRS109-8G-1S-2HnD-IN"
+  },
+  {
+    "name": "CRS125-24G-1S-IN",
+    "code": "CRS125-24G-1S-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/797_m.png",
+    "product_url": "https://mikrotik.com/product/CRS125-24G-1S-IN"
+  },
+  {
+    "name": "CRS125-24G-1S-RM",
+    "code": "CRS125-24G-1S-RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/798_m.png",
+    "product_url": "https://mikrotik.com/product/crs125_24g_1s_rm"
+  },
+  {
+    "name": "CRS212-1G-10S-1S+IN",
+    "code": "CRS212-1G-10S-1S+INr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1000_m.png",
+    "product_url": "https://mikrotik.com/product/CRS212-1G-10S-1SplusIN"
+  },
+  {
+    "name": "CRS125-24G-1S-2HnD-IN",
+    "code": "CRS125-24G-1S-2HnD-IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1929_m.png",
+    "product_url": "https://mikrotik.com/product/CRS125-24G-1S-2HnD-IN"
+  },
+  {
+    "name": "CRS210-8G-2S+IN",
+    "code": "CRS210-8G-2S+IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/998_m.png",
+    "product_url": "https://mikrotik.com/product/CRS210-8G-2SplusIN"
+  },
+  {
+    "name": "CRS226-24G-2S+IN",
+    "code": "CRS226-24G-2S+IN",
+    "image_url": "https://i.mt.lv/cdn/rb_images/910_m.png",
+    "product_url": "https://mikrotik.com/product/CRS226-24G-2SplusIN"
+  },
+  {
+    "name": "CRS226-24G-2S+RM",
+    "code": "CRS226-24G-2S+RM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/930_m.png",
+    "product_url": "https://mikrotik.com/product/CRS226-24G-2SplusRM"
+  },
+  {
+    "name": "SXT Lite2",
+    "code": "RBSXT2nDr3",
+    "image_url": "https://i.mt.lv/cdn/rb_images/758_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXT2nDr3"
+  },
+  {
+    "name": "SXTsq 5 High Power",
+    "code": "RBSXTsq5HPnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1359_m.png",
+    "product_url": "https://mikrotik.com/product/sxtsq_5_high_power"
+  },
+  {
+    "name": "SXT Lite5",
+    "code": "RBSXT5nDr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/752_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXT5nDr2"
+  },
+  {
+    "name": "SXT Lite5 ac",
+    "code": "RBSXT5HacD2nr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1102_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXT5HacD2nr2"
+  },
+  {
+    "name": "Groove 52 ac",
+    "code": "RBGrooveG-52HPacn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1483_m.png",
+    "product_url": "https://mikrotik.com/product/RBGrooveG-52HPacn"
+  },
+  {
+    "name": "LHG HP5",
+    "code": "RBLHG-5HPnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1382_m.png",
+    "product_url": "https://mikrotik.com/product/RBLHG-5HPnD"
+  },
+  {
+    "name": "SXT 2",
+    "code": "RBSXTG-2HnDr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/765_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXTG-2HnDr2-168"
+  },
+  {
+    "name": "SXT 5HnD",
+    "code": "RBSXT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1679_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXT"
+  },
+  {
+    "name": "SXT 5",
+    "code": "RBSXT5HPnDr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/768_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXT5HPnDr2"
+  },
+  {
+    "name": "SXT HG5",
+    "code": "RBSXTG-5HPnD-HGr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/755_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXTG-5HPnD-HGr2"
+  },
+  {
+    "name": "Metal 2",
+    "code": "RBMetal2SHPn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/773_m.png",
+    "product_url": "https://mikrotik.com/product/RBMetal2SHPn"
+  },
+  {
+    "name": "Metal 5",
+    "code": "RBMetal5SHPn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/776_m.png",
+    "product_url": "https://mikrotik.com/product/RBMetal5SHPn"
+  },
+  {
+    "name": "OmniTIK 5 PoE",
+    "code": "RBOmniTikUPA-5HnDr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/785_m.png",
+    "product_url": "https://mikrotik.com/product/RBOmniTikUPA-5HnDr2"
+  },
+  {
+    "name": "SXT SA5",
+    "code": "RBSXTG-5HPnD-SAr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/761_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXTG-5HPnD-SAr2"
+  },
+  {
+    "name": "SXT G-5HnD",
+    "code": "RBSXTG-5HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1681_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXTG-5HnD"
+  },
+  {
+    "name": "LHG 5 ac",
+    "code": "RBLHGG-5acD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1387_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_5_ac"
+  },
+  {
+    "name": "SXT 5 ac",
+    "code": "RBSXTG-5HPacDr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/931_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXTG-5HPacDr2"
+  },
+  {
+    "name": "SEXTANT G",
+    "code": "RBSEXTANTG-5HPnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1440_m.png",
+    "product_url": "https://mikrotik.com/product/RBSEXTANTG-5HPnD"
+  },
+  {
+    "name": "SXT HG5 ac",
+    "code": "RBSXTG-5HPacD-HGr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1043_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXTG-5HPacD-HGr2"
+  },
+  {
+    "name": "Metal 9",
+    "code": "RBMetal9HPn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/928_m.png",
+    "product_url": "https://mikrotik.com/product/RBMetal9HPn"
+  },
+  {
+    "name": "QRT 2",
+    "code": "RBQRTG-2SHPnDr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/866_m.png",
+    "product_url": "https://mikrotik.com/product/RBQRTG-2SHPnDr2"
+  },
+  {
+    "name": "NetMetal 5 triple",
+    "code": "RB922UAGS-5HPacT-NM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1114_m.png",
+    "product_url": "https://mikrotik.com/product/RB922UAGS-5HPacT-NM"
+  },
+  {
+    "name": "NetMetal 5SHP triple",
+    "code": "RB921UAGS-5SHPacT-NM",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1122_m.png",
+    "product_url": "https://mikrotik.com/product/RB921UAGS-5SHPacT-NM"
+  },
+  {
+    "name": "DynaDish 6",
+    "code": "RBDynaDishG-6HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1391_m.png",
+    "product_url": "https://mikrotik.com/product/dynadish_6"
+  },
+  {
+    "name": "QRT 5 ac",
+    "code": "RB911G-5HPacD-QRTr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1044_m.png",
+    "product_url": "https://mikrotik.com/product/RB911G-5HPacD-QRT"
+  },
+  {
+    "name": "mANTBox 19s",
+    "code": "RB921GS-5HPacD-19S",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1146_m.png",
+    "product_url": "https://mikrotik.com/product/RB921GS-5HPacD-19S"
+  },
+  {
+    "name": "SXT Sixpack",
+    "code": "RBSXTKit",
+    "image_url": "https://i.mt.lv/cdn/rb_images/748_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXTKit"
+  },
+  {
+    "name": "hAP mini",
+    "code": "RB931-2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1283_m.png",
+    "product_url": "https://mikrotik.com/product/RB931-2nD"
+  },
+  {
+    "name": "RB951-2n",
+    "code": "RB951-2n",
+    "image_url": "https://i.mt.lv/cdn/rb_images/897_m.png",
+    "product_url": "https://mikrotik.com/product/RB951-2n"
+  },
+  {
+    "name": "wAP",
+    "code": "RBwAP2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1437_m.png",
+    "product_url": "https://mikrotik.com/product/RBwAP2nD"
+  },
+  {
+    "name": "wAP BE",
+    "code": "RBwAP2nD-BE",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1438_m.png",
+    "product_url": "https://mikrotik.com/product/RBwAP2nD-BE"
+  },
+  {
+    "name": "wsAP ac lite",
+    "code": "RBwsAP-5Hac2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1490_m.png",
+    "product_url": "https://mikrotik.com/product/wsap_ac_lite"
+  },
+  {
+    "name": "RB751U-2HnD",
+    "code": "RB751U-2HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/898_m.png",
+    "product_url": "https://mikrotik.com/product/RB751U-2HnD"
+  },
+  {
+    "name": "RB751G-2HnD",
+    "code": "RB751G-2HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/853_m.png",
+    "product_url": "https://mikrotik.com/product/RB751G-2HnD"
+  },
+  {
+    "name": "wAP ac",
+    "code": "RBwAPG-5HacT2HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1436_m.png",
+    "product_url": "https://mikrotik.com/product/RBwAPG-5HacT2HnD"
+  },
+  {
+    "name": "wAP ac BE",
+    "code": "RBwAPG-5HacT2HnD-BE",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1439_m.png",
+    "product_url": "https://mikrotik.com/product/RBwAPG-5HacT2HnD-BE"
+  },
+  {
+    "name": "wAP ac BE",
+    "code": "RBwAPG-5HacD2HnD-BEr3",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1993_m.png",
+    "product_url": "https://mikrotik.com/product/wap_ac_be"
+  },
+  {
+    "name": "RB951G-2HnD",
+    "code": "RB951G-2HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/903_m.png",
+    "product_url": "https://mikrotik.com/product/RB951G-2HnD"
+  },
+  {
+    "name": "RB2011UiAS-2HnD-IN",
+    "code": "RB2011UiAS-2HnD-INr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1606_m.png",
+    "product_url": "https://mikrotik.com/product/RB2011UiAS-2HnD-IN"
+  },
+  {
+    "name": "R11e-LTE-US",
+    "code": "R11e-LTE-US",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1435_m.png",
+    "product_url": "https://mikrotik.com/product/r11e_lte_us"
+  },
+  {
+    "name": "R11e-4G",
+    "code": "R11e-4G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1670_m.png",
+    "product_url": "https://mikrotik.com/product/r11e_4g"
+  },
+  {
+    "name": "R11e-LTE6",
+    "code": "R11e-LTE6",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1882_m.png",
+    "product_url": "https://mikrotik.com/product/r11e_lte6"
+  },
+  {
+    "name": "SXT LTE",
+    "code": "RBSXTLTE3-7",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1130_m.png",
+    "product_url": "https://mikrotik.com/product/RBSXTLTE3-7"
+  },
+  {
+    "name": "LtAP mini LTE kit-US",
+    "code": "RB912R-2nD-LTm&R11e-LTE-US",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1516_m.png",
+    "product_url": "https://mikrotik.com/product/ltap_mini_lte_kit_us"
+  },
+  {
+    "name": "SXT LTE kit-US",
+    "code": "RBSXTR&R11e-LTE-USr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1545_m.png",
+    "product_url": "https://mikrotik.com/product/sxt_lte_kit_us"
+  },
+  {
+    "name": "wAP 4G kit",
+    "code": "RBwAPR-2nD&R11e-4G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1789_m.png",
+    "product_url": "https://mikrotik.com/product/wap_4g_kit"
+  },
+  {
+    "name": "LtAP mini 4G kit",
+    "code": "RB912R-2nD-LTm&R11e-4G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1708_m.png",
+    "product_url": "https://mikrotik.com/product/ltap_mini_4g_kit"
+  },
+  {
+    "name": "SXT 4G kit",
+    "code": "RBSXTR&R11e-4Gr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1717_m.png",
+    "product_url": "https://mikrotik.com/product/sxt_4g_kit"
+  },
+  {
+    "name": "wAP LTE kit US",
+    "code": "RBwAPR-2nD&R11e-LTE-US",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1319_m.png",
+    "product_url": "https://mikrotik.com/product/wap_lte_kit_us"
+  },
+  {
+    "name": "SXT LTE kit",
+    "code": "RBSXTR&R11e-LTEr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1543_m.png",
+    "product_url": "https://mikrotik.com/product/sxt_lte_kit"
+  },
+  {
+    "name": "LHG LTE kit-US",
+    "code": "RBLHGR&R11e-LTE-US",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1666_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_lte_kit_us"
+  },
+  {
+    "name": "LDF LTE6 kit",
+    "code": "RBLDFR&R11e-LTE6",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1942_m.png",
+    "product_url": "https://mikrotik.com/product/ldf_lte6_kit"
+  },
+  {
+    "name": "LHG 4G kit",
+    "code": "RBLHGR&R11e-4G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1786_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_4g_kit"
+  },
+  {
+    "name": "SXT LTE6 kit",
+    "code": "RBSXTR&R11e-LTE6r2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1884_m.png",
+    "product_url": "https://mikrotik.com/product/sxt_lte6_kit"
+  },
+  {
+    "name": "wAP ac 4G kit",
+    "code": "RBwAPGR-5HacD2HnD&R11e-4Gr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1796_m.png",
+    "product_url": "https://mikrotik.com/product/wap_ac_4g_kit"
+  },
+  {
+    "name": "LtAP 4G kit",
+    "code": "RBLtAP-2HnD&R11e-4G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1809_m.png",
+    "product_url": "https://mikrotik.com/product/ltap_4g_kit"
+  },
+  {
+    "name": "hAP ac³ LTE6 kit",
+    "code": "RBD53GR-5HacD2HnD&R11e-LTE6",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1931_m.png",
+    "product_url": "https://mikrotik.com/product/hap_ac3_lte6_kit"
+  },
+  {
+    "name": "LHGG LTE6 kit",
+    "code": "RBLHGGR&R11e-LTE6",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1996_m.png",
+    "product_url": "https://mikrotik.com/product/lhgg_lte6_kit"
+  },
+  {
+    "name": "LtAP LTE6 kit",
+    "code": "RBLtAP-2HnD&R11e-LTE6",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1891_m.png",
+    "product_url": "https://mikrotik.com/product/ltap_lte6_kit"
+  },
+  {
+    "name": "Audience LTE6 kit",
+    "code": "RBD25GR-5HPacQD2HPnD&R11e-LTE6",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1857_m.png",
+    "product_url": "https://mikrotik.com/product/audience_lte6_kit"
+  },
+  {
+    "name": "PWR-LINE EU",
+    "code": "PL7400",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1757_m.png",
+    "product_url": "https://mikrotik.com/product/pwr_line_eu"
+  },
+  {
+    "name": "PWR-LINE AP (EU plug)",
+    "code": "PL7411-2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1776_m.png",
+    "product_url": "https://mikrotik.com/product/pwr_line_ap"
+  },
+  {
+    "name": "PWR-LINE AP (US plug)",
+    "code": "PL6411-2nD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1777_m.png",
+    "product_url": "https://mikrotik.com/product/pwr_line_ap_us_plug"
+  },
+  {
+    "name": "PWR-LINE PRO",
+    "code": "PL7510Gi",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1826_m.png",
+    "product_url": "https://mikrotik.com/product/pl7510gi"
+  },
+  {
+    "name": "Antenna kit for LoRa®",
+    "code": "TOF-0809-7V-S1",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1871_m.png",
+    "product_url": "https://mikrotik.com/product/lora_antenna_kit"
+  },
+  {
+    "name": "SXTsq Lite60",
+    "code": "RBSXTsq-60ad",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1611_m.png",
+    "product_url": "https://mikrotik.com/product/sxtsq_lite60"
+  },
+  {
+    "name": "Cube Lite60",
+    "code": "RBCube-60ad",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1896_m.png",
+    "product_url": "https://mikrotik.com/product/cube_lite60"
+  },
+  {
+    "name": "LHG Lite60",
+    "code": "RBLHG-60ad",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1724_m.png",
+    "product_url": "https://mikrotik.com/product/lhg_lite60"
+  },
+  {
+    "name": "Cube 60G ac",
+    "code": "CubeG-5ac60ad",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2017_m.png",
+    "product_url": "https://mikrotik.com/product/cube_60g_ac"
+  },
+  {
+    "name": "wAP 60Gx3 AP",
+    "code": "RBwAPG-60ad-SAr2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1735_m.png",
+    "product_url": "https://mikrotik.com/product/wap_60gx3_ap"
+  },
+  {
+    "name": "Wireless Wire Cube",
+    "code": "CubeG-5ac60adpair",
+    "image_url": "https://i.mt.lv/cdn/rb_images/2010_m.png",
+    "product_url": "https://mikrotik.com/product/wireless_wire_cube"
+  },
+  {
+    "name": "RB411L",
+    "code": "RB411L",
+    "image_url": "https://i.mt.lv/cdn/rb_images/880_m.png",
+    "product_url": "https://mikrotik.com/product/RB411L"
+  },
+  {
+    "name": "911 Lite2",
+    "code": "RB911-2Hn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/920_m.png",
+    "product_url": "https://mikrotik.com/product/RB911-2Hn"
+  },
+  {
+    "name": "911 Lite5",
+    "code": "RB911-5Hn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/921_m.png",
+    "product_url": "https://mikrotik.com/product/RB911-5Hn"
+  },
+  {
+    "name": "RB711-2Hn",
+    "code": "RB711-2Hn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/893_m.png",
+    "product_url": "https://mikrotik.com/product/RB711-2Hn"
+  },
+  {
+    "name": "RB411",
+    "code": "RB411",
+    "image_url": "https://i.mt.lv/cdn/rb_images/669_m.png",
+    "product_url": "https://mikrotik.com/product/RB411"
+  },
+  {
+    "name": "RB711-5Hn",
+    "code": "RB711-5Hn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/881_m.png",
+    "product_url": "https://mikrotik.com/product/RB711-5Hn"
+  },
+  {
+    "name": "RB711-5Hn-M",
+    "code": "RB711-5Hn-M",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1682_m.png",
+    "product_url": "https://mikrotik.com/product/RB711-5Hn-M"
+  },
+  {
+    "name": "RB711-5Hn-U",
+    "code": "RB711-5Hn-U",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1683_m.png",
+    "product_url": "https://mikrotik.com/product/RB711-5Hn-U"
+  },
+  {
+    "name": "RB911G-2HPnD",
+    "code": "RB911G-2HPnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/882_m.png",
+    "product_url": "https://mikrotik.com/product/RB911G-2HPnD"
+  },
+  {
+    "name": "RB411R",
+    "code": "RB411R",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1684_m.png",
+    "product_url": "https://mikrotik.com/product/RB411R"
+  },
+  {
+    "name": "RB450",
+    "code": "RB450",
+    "image_url": "https://i.mt.lv/cdn/rb_images/651_m.png",
+    "product_url": "https://mikrotik.com/product/RB450"
+  },
+  {
+    "name": "RB411A",
+    "code": "RB411A",
+    "image_url": "https://i.mt.lv/cdn/rb_images/896_m.png",
+    "product_url": "https://mikrotik.com/product/RB411A"
+  },
+  {
+    "name": "RB411GL",
+    "code": "RB411GL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/870_m.png",
+    "product_url": "https://mikrotik.com/product/RB411GL"
+  },
+  {
+    "name": "RB411U",
+    "code": "RB411U",
+    "image_url": "https://i.mt.lv/cdn/rb_images/646_m.png",
+    "product_url": "https://mikrotik.com/product/RB411U"
+  },
+  {
+    "name": "RB411UAHL",
+    "code": "RB411UAHL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/668_m.png",
+    "product_url": "https://mikrotik.com/product/RB411UAHL"
+  },
+  {
+    "name": "RB711A-5Hn-M",
+    "code": "RB711A-5Hn-M",
+    "image_url": "https://i.mt.lv/cdn/rb_images/684_m.png",
+    "product_url": "https://mikrotik.com/product/RB711A-5Hn-M"
+  },
+  {
+    "name": "RB411AR",
+    "code": "RB411AR",
+    "image_url": "https://i.mt.lv/cdn/rb_images/675_m.png",
+    "product_url": "https://mikrotik.com/product/RB411AR"
+  },
+  {
+    "name": "RB433L",
+    "code": "RB433L",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1685_m.png",
+    "product_url": "https://mikrotik.com/product/RB433L"
+  },
+  {
+    "name": "RB433UL",
+    "code": "RB433UL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/660_m.png",
+    "product_url": "https://mikrotik.com/product/RB433UL"
+  },
+  {
+    "name": "RB711GA-5HnD",
+    "code": "RB711GA-5HnD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1686_m.png",
+    "product_url": "https://mikrotik.com/product/RB711GA-5HnD"
+  },
+  {
+    "name": "RB411AH",
+    "code": "RB411AH",
+    "image_url": "https://i.mt.lv/cdn/rb_images/645_m.png",
+    "product_url": "https://mikrotik.com/product/RB411AH"
+  },
+  {
+    "name": "RB433",
+    "code": "RB433",
+    "image_url": "https://i.mt.lv/cdn/rb_images/654_m.png",
+    "product_url": "https://mikrotik.com/product/RB433"
+  },
+  {
+    "name": "RB450G",
+    "code": "RB450G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/650_m.png",
+    "product_url": "https://mikrotik.com/product/RB450G"
+  },
+  {
+    "name": "Crossroads",
+    "code": "RBCRD",
+    "image_url": "https://i.mt.lv/cdn/rb_images/895_m.png",
+    "product_url": "https://mikrotik.com/product/RBCRD"
+  },
+  {
+    "name": "RB411UAHR",
+    "code": "RB411UAHR",
+    "image_url": "https://i.mt.lv/cdn/rb_images/655_m.png",
+    "product_url": "https://mikrotik.com/product/RB411UAHR"
+  },
+  {
+    "name": "RB433UAHL",
+    "code": "RB433UAHL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1687_m.png",
+    "product_url": "https://mikrotik.com/product/RB433UAHL"
+  },
+  {
+    "name": "RB493",
+    "code": "RB493",
+    "image_url": "https://i.mt.lv/cdn/rb_images/649_m.png",
+    "product_url": "https://mikrotik.com/product/RB493"
+  },
+  {
+    "name": "RB850Gx2",
+    "code": "RB850Gx2",
+    "image_url": "https://i.mt.lv/cdn/rb_images/991_m.png",
+    "product_url": "https://mikrotik.com/product/RB850Gx2"
+  },
+  {
+    "name": "RB433GL",
+    "code": "RB433GL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/678_m.png",
+    "product_url": "https://mikrotik.com/product/rb433gl_130"
+  },
+  {
+    "name": "RB433AH",
+    "code": "RB433AH",
+    "image_url": "https://i.mt.lv/cdn/rb_images/653_m.png",
+    "product_url": "https://mikrotik.com/product/RB433AH"
+  },
+  {
+    "name": "RB433UAH",
+    "code": "RB433UAH",
+    "image_url": "https://i.mt.lv/cdn/rb_images/652_m.png",
+    "product_url": "https://mikrotik.com/product/RB433UAH"
+  },
+  {
+    "name": "RB493AH",
+    "code": "RB493AH",
+    "image_url": "https://i.mt.lv/cdn/rb_images/648_m.png",
+    "product_url": "https://mikrotik.com/product/RB493AH"
+  },
+  {
+    "name": "RB953GS-5HnT-RP",
+    "code": "RB953GS-5HnT-RP",
+    "image_url": "https://i.mt.lv/cdn/rb_images/926_m.png",
+    "product_url": "https://mikrotik.com/product/RB953GS-5HnT-RP"
+  },
+  {
+    "name": "RB435G",
+    "code": "RB435G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/887_m.png",
+    "product_url": "https://mikrotik.com/product/RB435G"
+  },
+  {
+    "name": "RB600A",
+    "code": "RB600A",
+    "image_url": "https://i.mt.lv/cdn/rb_images/894_m.png",
+    "product_url": "https://mikrotik.com/product/RB600A"
+  },
+  {
+    "name": "RB493G",
+    "code": "RB493G",
+    "image_url": "https://i.mt.lv/cdn/rb_images/888_m.png",
+    "product_url": "https://mikrotik.com/product/RB493G"
+  },
+  {
+    "name": "RB800",
+    "code": "RB800",
+    "image_url": "https://i.mt.lv/cdn/rb_images/890_m.png",
+    "product_url": "https://mikrotik.com/product/RB800"
+  },
+  {
+    "name": "CA493",
+    "code": "CA493",
+    "image_url": "https://i.mt.lv/cdn/rb_images/838_m.png",
+    "product_url": "https://mikrotik.com/product/CA493"
+  },
+  {
+    "name": "CA800",
+    "code": "CA800",
+    "image_url": "https://i.mt.lv/cdn/rb_images/840_m.png",
+    "product_url": "https://mikrotik.com/product/CA800"
+  },
+  {
+    "name": "CAOTS",
+    "code": "CAOTS",
+    "image_url": "https://i.mt.lv/cdn/rb_images/845_m.png",
+    "product_url": "https://mikrotik.com/product/CAOTS"
+  },
+  {
+    "name": "CAOTU",
+    "code": "CAOTU",
+    "image_url": "https://i.mt.lv/cdn/rb_images/846_m.png",
+    "product_url": "https://mikrotik.com/product/CAOTU"
+  },
+  {
+    "name": "IAMP1",
+    "code": "IAMP1",
+    "image_url": "https://i.mt.lv/cdn/rb_images/819_m.png",
+    "product_url": "https://mikrotik.com/product/IAMP1"
+  },
+  {
+    "name": "IAMP1E",
+    "code": "IAMP1E",
+    "image_url": "https://i.mt.lv/cdn/rb_images/820_m.png",
+    "product_url": "https://mikrotik.com/product/IAMP1E"
+  },
+  {
+    "name": "RB502",
+    "code": "RB502",
+    "image_url": "https://i.mt.lv/cdn/rb_images/817_m.png",
+    "product_url": "https://mikrotik.com/product/RB502"
+  },
+  {
+    "name": "R2N",
+    "code": "R2N",
+    "image_url": "https://i.mt.lv/cdn/rb_images/823_m.png",
+    "product_url": "https://mikrotik.com/product/R2N"
+  },
+  {
+    "name": "R52",
+    "code": "R52",
+    "image_url": "https://i.mt.lv/cdn/rb_images/827_m.png",
+    "product_url": "https://mikrotik.com/product/R52"
+  },
+  {
+    "name": "R5nH",
+    "code": "R5nH",
+    "image_url": "https://i.mt.lv/cdn/rb_images/822_m.png",
+    "product_url": "https://mikrotik.com/product/R5nH"
+  },
+  {
+    "name": "R2SHPn",
+    "code": "R2SHPn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1196_m.png",
+    "product_url": "https://mikrotik.com/product/R2SHPn"
+  },
+  {
+    "name": "R52N",
+    "code": "R52N",
+    "image_url": "https://i.mt.lv/cdn/rb_images/825_m.png",
+    "product_url": "https://mikrotik.com/product/R52N"
+  },
+  {
+    "name": "R52nM",
+    "code": "R52N-M",
+    "image_url": "https://i.mt.lv/cdn/rb_images/659_m.png",
+    "product_url": "https://mikrotik.com/product/R52NM"
+  },
+  {
+    "name": "RB14e",
+    "code": "RB14e",
+    "image_url": "https://i.mt.lv/cdn/rb_images/816_m.png",
+    "product_url": "https://mikrotik.com/product/RB14e"
+  },
+  {
+    "name": "RB604",
+    "code": "RB604",
+    "image_url": "https://i.mt.lv/cdn/rb_images/818_m.png",
+    "product_url": "https://mikrotik.com/product/RB604"
+  },
+  {
+    "name": "R11e-5HacT",
+    "code": "R11e-5HacT",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1103_m.png",
+    "product_url": "https://mikrotik.com/product/R11e-5HacT"
+  },
+  {
+    "name": "R52H",
+    "code": "R52-350",
+    "image_url": "https://i.mt.lv/cdn/rb_images/658_m.png",
+    "product_url": "https://mikrotik.com/product/R52H"
+  },
+  {
+    "name": "R52Hn",
+    "code": "R52Hn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/849_m.png",
+    "product_url": "https://mikrotik.com/product/R52Hn"
+  },
+  {
+    "name": "R5SHPn",
+    "code": "R5SHPn",
+    "image_url": "https://i.mt.lv/cdn/rb_images/656_m.png",
+    "product_url": "https://mikrotik.com/product/R5SHPn"
+  },
+  {
+    "name": "RB14eU",
+    "code": "RB14eU",
+    "image_url": "https://i.mt.lv/cdn/rb_images/670_m.png",
+    "product_url": "https://mikrotik.com/product/RB14eU"
+  },
+  {
+    "name": "R5H",
+    "code": "R5H",
+    "image_url": "https://i.mt.lv/cdn/rb_images/821_m.png",
+    "product_url": "https://mikrotik.com/product/R5H"
+  },
+  {
+    "name": "RB44GV",
+    "code": "ING44V",
+    "image_url": "https://i.mt.lv/cdn/rb_images/826_m.png",
+    "product_url": "https://mikrotik.com/product/ING44V"
+  },
+  {
+    "name": "RB44Ge",
+    "code": "RB44Ge",
+    "image_url": "https://i.mt.lv/cdn/rb_images/909_m.png",
+    "product_url": "https://mikrotik.com/product/RB44Ge"
+  },
+  {
+    "name": "5VUSB",
+    "code": "5VUSB",
+    "image_url": "https://i.mt.lv/cdn/rb_images/905_m.png",
+    "product_url": "https://mikrotik.com/product/5VUSB"
+  },
+  {
+    "name": "ACMMCX",
+    "code": "ACMMCX",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1135_m.png",
+    "product_url": "https://mikrotik.com/product/ACMMCX"
+  },
+  {
+    "name": "ACUFL",
+    "code": "ACUFL",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1134_m.png",
+    "product_url": "https://mikrotik.com/product/ACUFL"
+  },
+  {
+    "name": "ACSWI",
+    "code": "ACSWI",
+    "image_url": "https://i.mt.lv/cdn/rb_images/793_m.png",
+    "product_url": "https://mikrotik.com/product/ACSWI"
+  },
+  {
+    "name": "Woobm-USB",
+    "code": "Woobm-USB",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1403_m.png",
+    "product_url": "https://mikrotik.com/product/woobm"
+  },
+  {
+    "name": "mUPS",
+    "code": "mUPS",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1477_m.png",
+    "product_url": "https://mikrotik.com/product/mups"
+  },
+  {
+    "name": "MQS",
+    "code": "RBMQS",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1840_m.png",
+    "product_url": "https://mikrotik.com/product/mqs"
+  },
+  {
+    "name": "S+DA0001",
+    "code": "S+DA0001",
+    "image_url": "https://i.mt.lv/cdn/rb_images/863_m.png",
+    "product_url": "https://mikrotik.com/product/SplusDA0001"
+  },
+  {
+    "name": "Q+DA0001",
+    "code": "Q+DA0001",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1838_m.png",
+    "product_url": "https://mikrotik.com/product/q_da0001"
+  },
+  {
+    "name": "S-C47DLC40D",
+    "code": "S-C47DLC40D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1583_m.png",
+    "product_url": "https://mikrotik.com/product/s_c47dlc40d"
+  },
+  {
+    "name": "S-C49DLC40D",
+    "code": "S-C49DLC40D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1585_m.png",
+    "product_url": "https://mikrotik.com/product/s_c49dlc40d"
+  },
+  {
+    "name": "S+DA0003",
+    "code": "S+DA0003",
+    "image_url": "https://i.mt.lv/cdn/rb_images/864_m.png",
+    "product_url": "https://mikrotik.com/product/SplusDA0003"
+  },
+  {
+    "name": "Q+85MP01D",
+    "code": "Q+85MP01D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1834_m.png",
+    "product_url": "https://mikrotik.com/product/q_85mp01d"
+  },
+  {
+    "name": "Q+BC0003-S+",
+    "code": "Q+BC0003-S+",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1836_m.png",
+    "product_url": "https://mikrotik.com/product/q_bc0003_s"
+  },
+  {
+    "name": "GPON ONU module",
+    "code": "SFPONU",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1104_m.png",
+    "product_url": "https://mikrotik.com/product/SFPONU"
+  },
+  {
+    "name": "S+C47DLC10D",
+    "code": "S+C47DLC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1595_m.png",
+    "product_url": "https://mikrotik.com/product/s_c47dlc10d"
+  },
+  {
+    "name": "S+C49DLC10D",
+    "code": "S+C49DLC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1596_m.png",
+    "product_url": "https://mikrotik.com/product/s_c49dlc10d"
+  },
+  {
+    "name": "S+C51DLC10D",
+    "code": "S+C51DLC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1597_m.png",
+    "product_url": "https://mikrotik.com/product/s_c51dlc10d"
+  },
+  {
+    "name": "S+C53DLC10D",
+    "code": "S+C53DLC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1598_m.png",
+    "product_url": "https://mikrotik.com/product/s_c53dlc10d"
+  },
+  {
+    "name": "S+C55DLC10D",
+    "code": "S+C55DLC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1599_m.png",
+    "product_url": "https://mikrotik.com/product/s_c55dlc10d"
+  },
+  {
+    "name": "S+C57DLC10D",
+    "code": "S+C57DLC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1600_m.png",
+    "product_url": "https://mikrotik.com/product/s_c57dlc10d"
+  },
+  {
+    "name": "S+C59DLC10D",
+    "code": "S+C59DLC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1601_m.png",
+    "product_url": "https://mikrotik.com/product/s_c59dlc10d"
+  },
+  {
+    "name": "S+C61DLC10D",
+    "code": "S+C61DLC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1602_m.png",
+    "product_url": "https://mikrotik.com/product/s_c61dlc10d"
+  },
+  {
+    "name": "S+31DLC10D",
+    "code": "S+31DLC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/814_m.png",
+    "product_url": "https://mikrotik.com/product/Splus31DLC10D"
+  },
+  {
+    "name": "S+2332LC10D",
+    "code": "S+2332LC10D",
+    "image_url": "https://i.mt.lv/cdn/rb_images/1005_m.png",
+    "product_url": "https://mikrotik.com/product/Splus2332LC10D"
+  }
+]
