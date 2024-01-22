@@ -33,7 +33,9 @@ The plugin also searches for additional information about the device from its na
 ## Example
 
 
-![doc/img.png](doc/img.png)
+<div style="background-color: white;">
+    <img src="doc/img.png" alt="Descripción de la imagen">
+</div>
 
 ![doc/app.gif](doc/app.gif)
 
